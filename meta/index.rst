@@ -1,19 +1,25 @@
 Meta-jeu
 ========
 
-Met ta graine dans l'edifice du promoteur !
+`Met ta graine dans l'édifice du promoteur`_ !
 
-
-Si tu veux tu peux proposer:
+N'hésite pas à proposer:
 
 * des jeux,
 * des idées de jeux,
-* des solutions,
+* des solutions alternatives,
 * des dessins,
 * des illustrations,
 * des fraises tagadas,
+* des commentaires,
 * etc.
 
-C'est juste un jeu alors fait marcher ton imagination !
+Met ta graine dans la `boite à idées`_ et participe au méta-jeu du promoteur.
 
-Proposer un jeu et jouer le jeu et sur le jeu, c'est ça le méta jeu.
+.. toctree::
+
+    boite
+
+.. _`Met ta graine dans l'édifice du promoteur`:
+
+.. _`boite à idées`: participe.html

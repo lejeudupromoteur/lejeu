@@ -6,8 +6,8 @@ la mairie de Melahan.**
 
 .. attention::
 
-    Ce jeu est réservé au plus de 3 mois. Si cela fait moins de trois mois que tu habites la ville de meylahan, tu
-    pourras pas tous comprendre. Ici c'est juste pour de jouer. Si tu veux tout comprendre:
+    Ce jeu est réservé aux plus de 3 mois. Si cela fait moins de trois mois que tu habites la ville de Melahan, tu
+    pourras peut être pas tous comprendre. Dans ce cas :
 
     * demande aux grands,
     * lis le `blog de la créche`_
@@ -27,11 +27,14 @@ le méta-jeu ! Trop drôle.
 ..  toctree::
     :maxdepth: 2
 
+    actualites/index
     regles/index
     defis/index
     tetes/index
     meta/index
 
+
 .. _`blog de la créche` : http://crechemeylan.unblog.fr/
 
 .. _UQBGP : http://uqbgp.fr
+
