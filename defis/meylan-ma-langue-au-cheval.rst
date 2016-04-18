@@ -3,7 +3,7 @@ Ma langue au cheval
 
 LANGUES VIVANTES
 
-Joue le jeu des élus lulu. Leur sagesse proverbiale être traduite dans toutes les langues.
+Joue le jeu des élus lulus. Leur sagesse proverbiale être traduite dans toutes les langues.
 
     **"L'argent ne se trouve pas sous les sabots d'un cheval"**  -- élus lulu
 

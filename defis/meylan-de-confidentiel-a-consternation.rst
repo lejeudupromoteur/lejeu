@@ -9,26 +9,26 @@ Attention, ne te laisse influencer ni par tes parents, ni par les journaux, ni p
 
 ::
 
-    |       confidentiel,
-    |               constructible, construction, contigu, confiture,
-    | concocter, contrat, conjugal, contournement, conflit, confondre, conjoint, contesté, confiture,
-    |          contentieux, contortioniste, contradiction, confession, confiture,
-    | conséquence, condamnation, contravention, confirmé, confiscer, contraint, confiner, confiture,
-    |       constructivisme, concombre, consultation, pétition, concertation, confiture
-    |                                consternation
+                                     confidentiel,
+                   constructible, construction, contigu, confiture,
+    contrat, conjugal, concocter, contournement, conflit, confondre, conjoint, contesté, confiture,
+              contentieux, contortionniste, contradiction, confession, confiture,
+     conséquence, condamnation, contravention, confirmé, confisquer, contraint, confiner, confiture,
+           constructivisme, concombre, consultation, pétition, concertation, confiture
+                                    consternation
 
 ..  admonition:: Réponse
     :class: toggle
 
 
-    #.  Tu as choisi “confiture” ? C'est ton estomac qui a parlé !!! Ne touche pas 1.8M€
+    #.  Tu as choisi **“confiture”** ? C'est ton estomac qui a parlé !!! Ne touche pas 1.8M€
 
-    #.  Tu as choisi “condamnation” ? Lis le journal des élus lulu plutôt que le journal que lit papa. Tu auras
+    #.  Tu as choisi **“condamnation”** ? Lis le journal des élus lulu plutôt que le journal que lit papa. Tu auras
         moins de tracas !
 
-    #.  Tu as choisi “constructivisme” ? Peut est-il temps de changer de classe.
+    #.  Tu as choisi **“constructivisme”** ? Peut est-il temps de changer de classe.
 
-    #.  Tu as choisi “concertation” ? Non. Pas pour le terrain zizin !
+    #.  Tu as choisi **“concertation”** ? Non. Pas pour le terrain zizin !
 
-    #.  Tu as choisi “concombre” ? Fait un dessin et envoie le nous. Après tout c'est peut être le concombre
+    #.  Tu as choisi **“concombre”** ? Fait un dessin et envoie le nous. Après tout c'est peut être le concombre
         concon qui peut encore sauver Melahan de l'urbanisation galopante. Pas con du tout...

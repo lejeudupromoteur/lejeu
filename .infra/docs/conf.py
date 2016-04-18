@@ -58,7 +58,7 @@ extensions = [
     # 'sphinx.ext.autodoc',
     # 'sphinx.ext.doctest',
     # 'sphinx.ext.intersphinx',
-    # 'sphinx.ext.todo',
+    'sphinx.ext.todo',
     # 'sphinx.ext.coverage',
     # 'sphinx.ext.mathjax',
     # 'sphinx.ext.ifconfig',
@@ -245,7 +245,7 @@ html_static_path = [os.path.join(CONF_DIR, 'static')]
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-html_show_sourcelink = False
+html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False

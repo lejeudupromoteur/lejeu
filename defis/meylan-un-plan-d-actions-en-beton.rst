@@ -5,33 +5,35 @@ DESSIN, LOGIQUE, COLORIAGE
 
 Joue le jeu du promoteur : trouve l'ordre des actions à réaliser pour bétonner au plus vite le terrain zinzin.
 C'est un vrai travail d'équipe alors il faut que tout le monde participe : élus lulu, habitants grognons et bien
-évidement le promoteur tuteur. Pour chaque action indique qui doit la faire.
+évidemment le promoteur tuteur. Pour chaque action indique qui doit la faire.
 
-Relie les points dans le bon ordre et tu veras un résultat en béton !
+Q1. Relit le plan d'actions
+---------------------------
+
+Relie les points dans le bon ordre et tu verras un résultat en béton !
 
 ::
 
-              x concertation x signer apprendre x
+                                  x concertation x signer apprendre x
 
-        x terminer                          temporiser x
+                            x terminer                          temporiser x
 
-        x commencer ici      x voter        construire x
-
+                            x commencer ici      x voter        construire x
 
 ..  admonition:: Réponse
     :class: toggle
 
     #.  **commencer ici**  - Les élus lulu.
 
-        Pourquoi ici ? Il faut bien commencer à betonner quelque part !
-        Ne t'inquiête pas, les élus vont inventer au fur et à mesure des plans bétons pour tout le quartier.
+        Pourquoi ici ? Il faut bien commencer à bétonner quelque part !
+        Ne t'inquiête pas, les élus vont inventer au fur et à mesure des plans béton pour tout le quartier.
         Tout le monde y aura droit !
 
     #.  **terminer** - Le promoteur tuteur.
 
-        Terminer sa cigarette avant d'aller discuter avec les élus lulu.
+        Terminer sa cigarette avant d'aller discuter avec les élus lulus.
 
-    #.  **concertation** - Les élus lulu / Le promoteur tuteur.
+    #.  **concertation** - Les élus lulus / Le promoteur tuteur.
 
         Discuter le prix du terrain zinzin.
 
@@ -55,11 +57,15 @@ Relie les points dans le bon ordre et tu veras un résultat en béton !
 
         Voter, c'est tous ! Mais il n'y aura que certains élus car il y a plus d'habitants que de promoteur et d'élus.
 
-Si tu n'as pas trouvé la solution ce n'est pas grave. Prend ton crayon gris, trace une trait comme indiqué ci-dessus
-et remplit tout ce que tu peux en gris.
+Q2. Colorie
+-----------
+
+Si tu n'as pas trouvé la solution ce n'est pas grave. Prend ton crayon ou ton pinceau et remplit tout ce que tu peux en
+gris. Si tu ne veux pas te salir les mains, fais comme le promoteur demande à quelqu'un d'autre de le faire, par
+exemple à ta petite soeur.
 
 ..  admonition:: Réponse
     :class: toggle
 
-    Tu veras apparaître une barre d'immeuble de 6 étages avec 90 logements et
-    quelques cages d'escaliers. C'est magique !
+    Si tu as suivi le plan d'action en béton, tu veras apparaître une barre d'immeubles de 6 étages avec 90 logements et
+    quelques cages d'escaliers. C'est magique ! Si c'est ta petite soeur qui à peint tu veras un joli dessin.
