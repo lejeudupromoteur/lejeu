@@ -16,4 +16,4 @@ Si tu veux tu peux proposer:
 
 C'est juste un jeu alors fait marcher ton imagination !
 
-Proposez un jeu et jouer le jeu et sur le jeu, c'est ça le méta jeu.
+Proposer un jeu et jouer le jeu et sur le jeu, c'est ça le méta jeu.
