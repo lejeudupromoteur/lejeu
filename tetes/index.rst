@@ -15,8 +15,7 @@ Tu trouveras ici plein d'informations sérieuses mais rigolotes sur:
 * sur les plans du promoteur tuteur,
 * sur la reglementation,
 * sur les risques naturels,
-
-etc.
+* etc.
 
 
 .. toctree::

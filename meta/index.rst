@@ -14,12 +14,12 @@ N'hésite pas à proposer:
 * des commentaires,
 * etc.
 
-Met ta graine dans la `boite à idées`_ et participe au méta-jeu du promoteur.
+
+Met ta graine dans la :ref:`Boites à idées` et participe au méta-jeu du promoteur.
 
 .. toctree::
 
     boite
 
-.. _`Met ta graine dans l'édifice du promoteur`:
+.. _`Met ta graine dans l'édifice du promoteur`: :ref:`Boites à idées`
 
-.. _`boite à idées`: participe.html

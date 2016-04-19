@@ -1,4 +1,4 @@
-HTML_PREVIEW=preview-assoc
+HTML_PREVIEW=preview1515
 HTML_OFFICIAL=
 BUILD_PARENT=../lejeudupromoteur.github.io
 BUILDDIR_PREVIEW=$(BUILD_PARENT)/$(HTML_PREVIEW)
@@ -27,19 +27,19 @@ clean:
 
 htmlpreview:
 	mkdir -p $(BUILDDIR_PREVIEW)
-	$(SPHINXBUILD) -b html -d $(BUILDDIR_PREVIEW)/doctrees -w $(BUILDDIR_PREVIEW)/build-errors.txt . $(BUILDDIR_PREVIEW)
+	$(SPHINXBUILD) $(SPHINXOPTS) -b html -d $(BUILDDIR_PREVIEW)/doctrees -w $(BUILDDIR_PREVIEW)/build-errors.txt . $(BUILDDIR_PREVIEW)
 	touch $(BUILDDIR_PREVIEW)/.nojekyll
 	@echo
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)"
+	@echo "Preview build finished. Preview HTML pages are in $(BUILDDIR_PREVIEW)"
 
 htmlofficial:
 	mkdir -p $(BUILDDIR_OFFICIAL)
-	$(SPHINXBUILD) -b html -d $(BUILDDIR_OFFICIAL)/doctrees -w $(BUILDDIR_OFFICIAL)/build-errors.txt . $(BUILDDIR_OFFICIAL)
+	$(SPHINXBUILD) $(SPHINXOPTS) -b html -d $(BUILDDIR_OFFICIAL)/doctrees -w $(BUILDDIR_OFFICIAL)/build-errors.txt . $(BUILDDIR_OFFICIAL)
 	touch $(BUILDDIR_OFFICIAL)/.nojekyll
 	@echo
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)"
+	@echo "Official build finished. Official HTML pages are in $(BUILDDIR_OFFICIAL)"
 
 
 changes:

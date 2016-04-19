@@ -1,3 +1,5 @@
+..  _`Boites à idées`:
+
 Boites à idées
 --------------
 
