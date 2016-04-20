@@ -20,6 +20,6 @@ Tu trouveras ici plein d'informations sérieuses mais rigolotes sur:
 
 .. toctree::
 
-    meylan-gallerie
+    meylan-galerie
     meylan-liens
 

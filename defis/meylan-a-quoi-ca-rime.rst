@@ -11,7 +11,7 @@ c’est envolé et maintenant tout est mélangé !  ::
     (2) Melahan prison             (b) decision                  (Y) Un vigile lulu
     (3) Melahan veilleuse          (c) jolie fille               (Z) Le fils du gendarme llulu
     (4) Melahan entier             (d) parcelle                  (T) Une élue lulue
-    (5) Melahan grand              (e) créche                    (U) Le promoteur tuteur
+    (5) Melahan grand              (e) crèche                    (U) Le promoteur tuteur
     (6) Melahan colis                                            (V) Les voisins zinzins
 
 

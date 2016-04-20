@@ -1,5 +1,5 @@
-Gallerie
---------
+Galerie
+-------
 
 Tu trouveras ici de jolies photos et vidéos.
 
@@ -17,6 +17,6 @@ Meylan, ville modèle, sous la pluie
 Ajoute ton grain de sel !
 '''''''''''''''''''''''''
 
-Pour épater la gallerie, tu peux aussi nous envoyer des dessins ou des photos. Par exemples des selfies devant les
+Pour épater la galerie, tu peux aussi nous envoyer des dessins ou des photos. Par exemples des selfies devant les
 arbres du terrain zinzin !
 
