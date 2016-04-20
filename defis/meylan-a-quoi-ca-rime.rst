@@ -26,6 +26,11 @@ Si tu ne comprend pas demande à la mairie de Melahan et demande aux élus lulus
 ..  admonition:: Réponse
     :class: toggle
 
+    **Réponse mercredi prochain, enfin celui d'après.**
+
+
+.. ....................................................................................................................
+
     *   La parcelle - **Mets la en vente** - Le promoteur tuteur à un élu lulu.
 
     *   La crêche - **Mets la en prison** - Le fils du gendarme lulu.

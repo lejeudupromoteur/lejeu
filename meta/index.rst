@@ -20,6 +20,7 @@ Met ta graine dans la :ref:`Boites à idées` et participe au méta-jeu du promo
 .. toctree::
 
     boite
+    abonnement
 
 .. _`Met ta graine dans l'édifice du promoteur`: :ref:`Boites à idées`
 

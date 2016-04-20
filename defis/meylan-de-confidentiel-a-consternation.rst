@@ -1,5 +1,5 @@
-De "confidentiel" à "consternation" !
--------------------------------------
+De "confidentiel" à "consternation"!
+------------------------------------
 
 VOCABULAIRE
 
@@ -17,9 +17,17 @@ Attention, ne te laisse influencer ni par tes parents, ni par les journaux, ni p
            constructivisme, concombre, consultation, pétition, concertation, confiture
                                     consternation
 
+
+
+
 ..  admonition:: Réponse
     :class: toggle
 
+
+    **Réponse disponible mercredi prochain.** :ref:`Abonne-toi <abonne-toi>` pour être prévenu !
+
+
+..  ..........................................................................................................
 
     #.  Tu as choisi **“confiture”** ? C'est ton estomac qui a parlé !!! Ne touche pas 1.8M€
 

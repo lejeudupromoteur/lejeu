@@ -35,6 +35,8 @@ Principe du jeu
 Le principe du jeu du promoteur est simple: trouver la solution la plus simple possible (pour les élus lulus)
 tout en faisant plaisir au promoteur tuteur. Tu n'as même pas besoin de trouver la meilleure solution !
 
+Toute les semaines tu trouveras de nouveaux défis. Abonne toi pour être prévenu !
+
 Plan du site
 ------------
 

@@ -2,8 +2,8 @@ Actualités
 ==========
 
 Ce site est comme le quartier, en pleine effervescence ! Il s'en passe tous les jours dans la ville de melahan, et
-tout autant dans la ville modèle. De nouvelles informations, de nouveaux jeux sont à prévoir toutes les semaines. Si
-tu veux être informé(e) abonne toi: met une graine dans la :ref:`Boites à idées`.
+tout autant dans la ville modèle. De nouvelles informations, de nouveaux jeux sont ajoutés toutes les semaines.
+Pour être informé :ref:`abonne-toi <abonne-toi>` !
 
 L'actualité de la ville modèle
 ------------------------------
@@ -53,24 +53,25 @@ L'actualité sur le jeu du promoteur
     </script>
 
 
-Abonne toi !
+abonne-toi !
 ------------
 
-Informe toi, tu veras, c'est étonnant. Abonne toi à tout, tu jugeras par toi même.
+Informe toi, tu veras, c'est étonnant. Abonne-toi à tout, tu jugeras par toi même.
 
-* `abonne toi au blog de la crèche`_
-* `abonne toi à l'écho du habert`_
-* `abonne toi à la ville de meylan`_
-* `abonne toi au dauphiné libéré`_
+* :ref:`abonne-toi au jeu du promoteur <abonne-toi>` !
+* `abonne-toi au blog de la crèche`_
+* `abonne-toi à l'écho du habert`_
+* `abonne-toi à la ville de meylan`_
+* `abonne-toi au dauphiné libéré`_
 
-..  _`abonne toi au blog de la crèche`:
+..  _`abonne-toi au blog de la crèche`:
     http://crechemeylan.unblog.fr/feed/
 
-..  _`abonne toi à la ville de meylan`:
+..  _`abonne-toi à la ville de meylan`:
     http://www.meylan.fr/index.php?idtf=1395
 
-..  _`abonne toi à l'écho du habert`:
+..  _`abonne-toi à l'écho du habert`:
     https://docs.google.com/forms/d/119PzMot6IQbVhlrHbwv2KlIDb1vSMof4GTJDtFjQTY4/viewform?formkey=dHYzQVhleG10SzVuVjBGSzhTNi1ja3c6MQ
 
-..  _`abonne toi au dauphiné libéré`:
+..  _`abonne-toi au dauphiné libéré`:
     http://www.ledauphine.com/isere-sud/meylan/rss
