@@ -11,6 +11,6 @@ Voici quelques conseils qui te seront utiles pour réussir :
 6. Dicte toi des règles, mais ne les respecte pas.
 7. Planifie si tu veux, mais ne dévoile jamais tes plans.
 8. Improvise.
-9. Ne t'attarde **jamais** dans la près de la case prison ...
+9. Ne t'attarde **jamais** près de la case prison ...
 
-**Et surtout n'oublies pas, c’est juste pour rigoler !**
+**Et surtout n'oublie pas, c’est juste pour rigoler !**

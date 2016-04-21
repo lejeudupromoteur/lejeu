@@ -3,7 +3,7 @@ L'étroit non sens
 
 ANATOMIE
 
-Les réunions de concertation à la mairie de Melahan sont toujours pationnantes. Dans ce jeu ludique tu devras
+Les réunions de concertation à la mairie de Melahan sont toujours passionnantes. Dans ce jeu ludique tu devras
 deviner dans quel sens !
 
 ..  note::

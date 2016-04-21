@@ -7,7 +7,7 @@ Joue le jeu du promoteur : trouve l'ordre des actions à réaliser pour bétonne
 C'est un vrai travail d'équipe alors il faut que tout le monde participe : élus lulu, habitants grognons et bien
 évidemment le promoteur tuteur. Pour chaque action indique qui doit la faire.
 
-Q1. Relit le plan d'actions
+Q1. Relie le plan d'actions
 ---------------------------
 
 Relie les points dans le bon ordre et tu verras un résultat en béton !
@@ -60,7 +60,7 @@ Relie les points dans le bon ordre et tu verras un résultat en béton !
 Q2. Colorie
 -----------
 
-Si tu n'as pas trouvé la solution ce n'est pas grave. Prend ton crayon ou ton pinceau et remplit tout ce que tu peux en
+Si tu n'as pas trouvé la solution ce n'est pas grave. Prend ton crayon ou ton pinceau et remplis tout ce que tu peux en
 gris. Si tu ne veux pas te salir les mains, fais comme le promoteur demande à quelqu'un d'autre de le faire, par
 exemple à ta petite soeur.
 

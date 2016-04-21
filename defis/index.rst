@@ -1,7 +1,7 @@
 Defis
 =====
 
-Fait le jeu du promoteur. Une fois que tu aura le terrain zinzin, ne te gêne pas, défie les voisins zinzin, les
+Fait le jeu du promoteur. Une fois que tu auras le terrain zinzin, ne te gêne pas, défie les voisins zinzin, les
 habitants gnagnans. Construit vite et haut.
 
 Il y en a pour tous les goûts et tous les ages : maths, dessin, coloriage, géométrie, grammaire, politique,

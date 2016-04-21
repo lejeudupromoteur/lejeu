@@ -4,7 +4,7 @@ De "confidentiel" à "consternation"!
 VOCABULAIRE
 
 
-Voici une liste de mots tout con... Trouve le mot qui pour toi caractérise le mieux la ville de Melahan.
+Voici une liste de mots tout cons... Trouve le mot qui pour toi caractérise le mieux la ville de Melahan.
 Attention, ne te laisse influencer ni par tes parents, ni par les journaux, ni par ton estomac !
 
 ::
