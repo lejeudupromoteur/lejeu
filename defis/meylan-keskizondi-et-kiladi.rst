@@ -15,6 +15,21 @@ sont tombées par terre et les mots se sont tout mélangés. Pauvre journaliste 
 
     (a) Des concertations ne se trouve pas sous les sabots d'un cheval
 
+..  attention::
+    :class: toggle
+
+    NDLR: Jeudi 21 avril, 14:40.
+
+    Un lecteur atantif, abitent de melahan, vien de nou informez a alainsant par melle qu'il i a une fote
+    dent la frase:
+
+    #. mais c'est pas notre fote: c'est pas nous con a fait tombé le cayé de la dame journallistes !
+    #. la raiponce saura bien taux disponnible; fè bien atension a la ortografe dé deu frase, sa t'aidera a trouvé
+       lait raiponce.
+    #. par contre si tue trouve d'autres fotes, sais pas kon a voulus :-( On rigolet tou le tant a les colles, et on
+       finisait dent avoir tou lait soir :-( Alor on es pas bien bon à l'ortografr nie granmère. Envoi noue un mél
+       si tu voi des ereurs aileur. Sa fé parti du :ref:`meta-jeu`: le jeux sûr le jeux !
+
 ::
 
     (b) Les promoteurs font de l'argent
@@ -24,7 +39,7 @@ sont tombées par terre et les mots se sont tout mélangés. Pauvre journaliste 
 
     Concertation entre chevaux argentins argentés
 
-Aide notre amie journaliste à remettre de l'ordre dans ces notes. Comme cela elle pourra écrire un bel article
+Aide dame journaliste à remettre de l'ordre dans ces notes. Comme cela elle pourra écrire un bel article
 expliquant bien le fond de la pensée des élus lulus.
 
 Q1. Déconcertant
