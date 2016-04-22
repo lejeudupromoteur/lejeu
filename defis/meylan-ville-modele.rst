@@ -5,7 +5,7 @@ GEOGRAPHIE
 
 A Melahan tu as vu que des fois c'est un peu le chahut parcequ'il y a beaucoup de monde qui joue : le promoteur
 tuteur, les élus lulus, les habitants grognons, les voisins zinzins, etc. Des fois c'est un peu compliqué mais pour
-que tout rentre dans l'ordre tu trouveras ici des exemples de **villes modèles**. Elles pourront de servir
+que tout rentre dans l'ordre tu trouveras ici des exemples de **villes modèles**. Elles pourront te servir
 d'inspiration pour modeler la ville de Melahan.
 
 .. ..........................................................................................................;
@@ -16,7 +16,7 @@ d'inspiration pour modeler la ville de Melahan.
 
 .. note::
 
-        **Je jeu sera disponible mecredi, pas le prochain mais le suivant.** :ref:`Abonne-toi <abonne-toi>` pour être
+        **Je jeu sera disponible mercredi, pas le prochain mais le suivant.** :ref:`Abonne-toi <abonne-toi>` pour être
         prévenu !
 
 .. ..........................................................................................................;

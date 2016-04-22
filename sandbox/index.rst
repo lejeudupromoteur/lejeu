@@ -1,0 +1,6 @@
+Sandbox
+-------
+
+..  toctree::
+
+    pacman/index
