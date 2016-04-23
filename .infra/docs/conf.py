@@ -246,9 +246,9 @@ html_static_path = [os.path.join(CONF_DIR, 'static')]
 
 # If true, links to the reST sources are added to the pages.
 html_show_sourcelink = True
-
+display_github = True
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-html_show_sphinx = False
+html_show_sphinx = True
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 html_show_copyright = False
