@@ -15,7 +15,7 @@ la mairie de Melahan.**
 ..  attention::
 
 
-    **Ce jeu est réservé aux plus de 3 mois**. Si cela fait moins de trois mois que tu habites la ville de Melahan, tu
+    **Ce jeu est réservé aux plus de 3 mois**.  Si cela fait moins de trois mois que tu habites la ville de Melahan, tu
     ne pourras peut être pas tout comprendre. Dans ce cas :
 
     * discute avec tes parents, grand-parents, ou avec tes enfants,
