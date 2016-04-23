@@ -1,7 +1,7 @@
 ..  _`meta-jeu` :
 
-Meta-jeu
-========
+Participe !
+===========
 
 `Met ta graine dans l'édifice du promoteur`_ !
 
@@ -24,6 +24,7 @@ Met ta graine dans la :ref:`Boites à idées` et participe au méta-jeu du promo
 
     boite
     abonnement
+    contribuables/index
 
 .. _`Met ta graine dans l'édifice du promoteur`: :ref:`Boites à idées`
 
