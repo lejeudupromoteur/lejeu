@@ -1,23 +1,23 @@
 Modifications
 -------------
 
-A partir de maintenant tu es connecté(e) à GitHub et tu le restera. Donc tu peux oublier l'étape précédente.
+..  note::
 
-(1) Se promener sur le site
-'''''''''''''''''''''''''''
-
-Tu peux à partir de mainenant naviguer normalement sur le site web, comme avant.
-Par contre quand tu trouveras une erreur ou voudras proposer une autre solution,
-ou n'importe quelle modification ca sera facile gràce à un bouton de modification.
-
-(2) Proposer une modification
-'''''''''''''''''''''''''''''
-
-Pour proposer la modification d'une page il suffit de cliquer sur le bouton de modification |Pencil|
-en haut à droite. Le "texte source" de la page s'ouvrira **dans une nouvelle fenêtre** ou onglet "GitHub".
+    Cette section suppose que tu es connect(é). Si tu as suivi l'étape "connexion" au
+    moins un fois dans ta vie, c'est suffisant.
 
 
-.. ..
+Pour proposer la modification d'une page il suffit de se trouver sur la page
+à modifier et de cliquer sur le bouton de modification |Pencil|.
+(regarde sur cette page, le bouton est toujours en haut à droite).
+L'éditeur GitHub s'ouvrira avec le "texte source" de la page.
+
+..  attention::
+
+    Un éditeur "GitHub" s'ouvrira dans une nouvelle page ou nouvel onglet.
+    **Une fois la modification faite ferme cet onglet pour revenir au site web normal**.
+
+.. ........................................
 
     Le résultat devrait ressembler à cela :
 
@@ -25,7 +25,6 @@ en haut à droite. Le "texte source" de la page s'ouvrira **dans une nouvelle fe
         :align: center
 
         Fenêtre de contrôle GitHub pour à la page à modifier.
-
 
     ..  note::
 
@@ -35,22 +34,38 @@ en haut à droite. Le "texte source" de la page s'ouvrira **dans une nouvelle fe
     **La seule chose importante pour toi dans cette page** est le petit crayon |Pencil| à droite,
     juste après``Raw | Blame | History``.
 
-Ce petit crayon te menera à un éditeur comme ci-dessous:
+A n'importe quel moment cliquer sur le petit crayon |Pencil| te permetteras d'éditer le texte source
+de la page sur laquelle tu te trouves. Par exemple dans l'écran ci-dessous monteur l'éditeur
+de GitHub pour la page principale de ce site :
 
 ..  figure:: images/GitHubEditer.png
     :align: center
 
     Editeur contenant le "texte source" de la page à modifier.
 
-Grâce à l'éditeur tu peux modifier le texte de la page. Ne t'inquiête pas de la mise en forme.
-Un autre contribuable s'en chargera.
+Il suffit d'éditer le texte comme avec un texte normal. Il y a des drôles de symboles, mais
+ne t'en préoccupes pas. Ne t'inquiête pas de la mise en forme. Un autre contribuable s'en chargera.
 
-Une fois tes modifications faites, il suffit de cliquer sur le bouton "Commit changes"
-en bas de la page, ou "Cancel" si tu ne veux pas sauvegarder tes modifications.
+Une fois tes modifications faites, va en bas de la page.
 
-Une fois que ta modification est faite, ferme la fenêtre "GitHub". Tu reveras la page
-originale. Celle-ci n'est pas modifiée en direct. Tes modifications seront revues et si tout
-va bien elle seront mise à jour lors lors de la prochaine mise à jour du site.
+..  figure::    images/GitHubCommit.png
+    :align: center
+
+    Enregistrement/annulation des modifications
+
+Si tu veux faire au plus simple, il suffit de cliquer sur :
+
+* "Commit changes" pour sauvegarder,
+* "Cancel" pour annuler tes modifications.
+
+Tu peux éventuellement mettre quelques mots sur le sens de la contribution. Pas la peine
+de rentrer dans le détail car GitHub permet d'afficher toute les modifications ligne par
+ligne si nécessaire.
+
+Une fois la modification faite (ou pas) ferme la fenêtre github pour revenir à la page sur le site web.
+**Ne sois pas surpris si tu ne vois pas tes modifications sur le site**. Tes modifications seront
+revues par un autre contribuable zinzin et si tout va bien elles seront mise à jour de la prochaine
+mise à jour du site.
 
 Si tu as un soucis n'hesite pas à nous contacter.
 
