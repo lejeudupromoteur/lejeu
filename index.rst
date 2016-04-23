@@ -40,11 +40,12 @@ Toute les semaines tu trouveras de nouveaux défis. Abonne toi pour être préve
 Plan du site
 ------------
 
-Commence à lire les règles du jeux et comprendre qui sont les personnages, où sont les embûches, les pièges, etc.
-Ensuite tu peux essayer de relancer de nombreux défis. Si tu es un garçon ou une fille à lunettes, tu pourras aussi
-te rendre dans le coin pour les têtes d'ampoules et tu trouveras plein de choses sérieuses mais rigolotes. Finalement,
-tu peux proposer ton jeu, proposer des dessins, des informations ou simplement donner ton avis. Le jeu sur le jeu c'est
-le méta-jeu ! Trop drôle.
+Commence à lire les règles du jeux et comprendre qui sont les personnages, où sont les embûches,
+les pièges, etc. Ensuite tu peux essayer de relancer de nombreux défis. Si tu es un garçon ou une
+fille à lunettes, tu pourras aussi te rendre dans le coin pour les têtes d'ampoules et tu trouveras 
+plein de choses sérieuses mais rigolotes. 
+Finalement, tu peux proposer ton jeu, proposer des dessins, des informations ou simplement donner ton avis.
+Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
 
 ..  toctree::
     :maxdepth: 2
