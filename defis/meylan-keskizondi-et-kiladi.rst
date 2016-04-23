@@ -177,7 +177,7 @@ Indique dans quelle phrase il est question d'urbanisme.
 
     Aucune. C'était un piège :-)
 
-    L'urbanisation n'a rien avoir avec tout cela. Rappelle toi, pour faire
+    L'urbanisation n'a rien avoir avec tout cela ! Rappelle toi, pour faire
     le jeu du promoteur l'une des règles est d'improviser, de faire ce qu'il te plait, etc. L'urbanisation c'est
     planifier, anticiper, concerter, etc. Que des gros maux pour les élus lulus !!!
 
