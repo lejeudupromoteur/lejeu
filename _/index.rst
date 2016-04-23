@@ -3,4 +3,4 @@ Sandbox
 
 ..  toctree::
 
-    pacman/index
+    promoglouton/index
