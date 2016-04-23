@@ -36,8 +36,8 @@ Si tu ne comprends pas demande à la mairie de Melahan et demande aux élus lulu
     *   La crêche - **Mets la en prison** - Le fils du gendarme lulu.
 
         Il ne parle pas encore très bien car il n’a que trois mois... Il vaut dire "transforme la en prison". Il
-        propose a son papa de transformer le crêche en petite prison pour que les un peu méchants de melahan soit
-        bien au chaud. Il suffirait de mettre quelle barreaux aux fênetres et cela ferait une jolie prison VIP.
+        propose a son papa cette transformation pour que les un peu méchants de melahan soient
+        bien au chaud. Il suffirait de mettre quelle barreaux aux fênetres et cela ferait l'affaire.
 
     *   La concertation - **Mets la en veilleuse** - Un conseil du promoteur aux élus lulus.
 
