@@ -113,7 +113,7 @@ exclude_patterns = [
     '.infra',
     'README.rst',
     '**/.build/*.generated.rst',
-    '**/classroom-root/**',
+    '_/*',
     'demos']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
@@ -248,7 +248,7 @@ html_static_path = [os.path.join(CONF_DIR, 'static')]
 html_show_sourcelink = True
 display_github = True
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-html_show_sphinx = True
+html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 html_show_copyright = False
