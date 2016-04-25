@@ -113,7 +113,7 @@ exclude_patterns = [
     '.infra',
     'README.rst',
     '**/.build/*.generated.rst',
-    '_/*',
+#    '_/index.rst',
     'demos']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
