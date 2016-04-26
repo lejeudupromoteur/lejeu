@@ -1,24 +1,18 @@
+SHELL := /bin/bash
+
 HTML_PREVIEW=preview1515
 HTML_OFFICIAL=
 BUILD_PARENT=../lejeudupromoteur.github.io
 BUILDDIR_PREVIEW=$(BUILD_PARENT)/$(HTML_PREVIEW)
 BUILDDIR_OFFICIAL=$(BUILD_PARENT)/$(HTML_OFFICIAL)
+GOOGLEDRIVE=~/GOOGLE_DRIVE
+SHAREROOTDIR=$(GOOGLEDRIVE)/COLLECTIF-BUCLOS/LE_JEU_DU_PROMOTEUR
+SHARETXTDIR=$(SHAREROOTDIR)/SITE_WEB_VERSION_TEXTE/
+SHARERSTDIR=$(SHAREROOTDIR)/SITE_WEB_VERSION_RST/
 
 # You can set these variables from the command line.
 SPHINXOPTS    = -c .infra/docs -q
 SPHINXBUILD   = /usr/share/PyVEnvs27/ScribesEnv/bin/sphinx-build
-
-.PHONY: help clean html htmlpreview htmlofficial changes linkcheck doctest coverage gettext
-
-help:
-	@echo "Please use \`make <target>' where <target> is one of"
-	@echo "  html       to make standalone HTML files"
-	@echo "  changes    to make an overview of all changed/added/deprecated items"
-	@echo "  xml        to make Docutils-native XML files"
-	@echo "  pseudoxml  to make pseudoxml-XML files for display purposes"
-	@echo "  linkcheck  to check all external links for integrity"
-	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
-	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 
 clean:
 	rm -rf $(BUILD_PARENT)/*
@@ -40,6 +34,24 @@ htmlofficial:
 	@echo
 	@echo
 	@echo "Official build finished. Official HTML pages are in $(BUILDDIR_OFFICIAL)"
+
+text:
+	rm -rf $(SHARETXTDIR)
+	mkdir -p $(SHARETXTDIR)
+	touch $(SHARETXTDIR)/.timestamp
+	$(SPHINXBUILD) $(SPHINXOPTS) -b text -d $(BUILDDIR_OFFICIAL)/doctrees -w $(BUILDDIR_OFFICIAL)/build-errors.txt . $(SHARETXTDIR)
+	@echo
+	@echo "Build finished. Text files are in $(SHARETXTDIR)"
+
+sources:
+	rm -rf $(SHARERSTDIR)/
+	mkdir -p $(SHARERSTDIR)/
+	touch $(SHARERSTDIR)/.timestamp
+	cp -r $(BUILD_PARENT)/$(HTML_OFFICIAL)/_sources/* $(SHARERSTDIR)
+
+share:  text  sources
+	pushd $(GOOGLEDRIVE) ; grive ; popd
+	echo "shared"
 
 
 changes:
