@@ -3,8 +3,8 @@ Modifications
 
 ..  note::
 
-    Cette section suppose que tu es connect(é). Si tu as suivi l'étape "connexion" au
-    moins un fois dans ta vie, c'est suffisant.
+    Cette section suppose que tu es connect(é) à GitHub. C'est le cas si tu as suivi
+    l'étape "connexion".
 
 
 Pour proposer la modification d'une page il suffit de se trouver sur la page

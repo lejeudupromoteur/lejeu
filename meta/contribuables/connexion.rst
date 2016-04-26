@@ -4,11 +4,13 @@ Connexion
 .. note::
 
     **Cette étape ne doit être faite qu'une seule fois**. Tu peux rester connecté(e)
-    tout ta vie si tu veux car il n'est pas nécessaire de te deconnecter.
+    tout ta vie si tu veux ; il n'est pas nécessaire de te deconnecter.
     Si tu demandes à ton navigateur de sauvegarder le mot de passe, il le fera.
 
-Tu vas te connecter dans une nouvelle fenêtre, puis tu fermeras cette fenêtre pour revenir sur
-cette page.
+Comment ca marche ?
+
+* tu vas te connecter dans une nouvelle fenêtre,
+* puis tu fermeras cette fenêtre pour revenir sur cette page.
 
 ..  ......................................................................................
 
