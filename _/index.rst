@@ -11,13 +11,13 @@ jeux interactifs
 
     promoglouton/index
     sauvekiki/index
-    bouboulle/index
+    roule-bouboulle/index
     ma-place-a-moi/index
 
 petition
 ''''''''
 
-La `pétition <http://slides.com/lejeudupromoteur/deck/fullscreen>`_
+
 
 ..  raw::   html
 
