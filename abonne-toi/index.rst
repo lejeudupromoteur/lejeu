@@ -1,7 +1,7 @@
 ..  _`abonne-toi`:
 
-Abonnement-toi !
-----------------
+Abonne-toi !
+-------------
 
 ..  raw:: html
 
