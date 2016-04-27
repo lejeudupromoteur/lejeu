@@ -1,10 +1,7 @@
-Le coin des contribuables
-=========================
+GitHub
+------
 
-Tous les contribuables zinzins de Melahan peuvent **proposer des modifications** à ce
-site web. Si tu as un âme de correcteur, d'instituteur, ou de contributeur, demande ton
-inscription à liste des *"contribuables zinzins"*. Et le mieux dans tout ça c'est
-que c'est gratuit !
+
 
 .. note::
 
@@ -23,3 +20,5 @@ que c'est gratuit !
     inscription
     connexion
     modifications
+
+..  _`dépot github`: https://github.com/lejeudupromoteur/lejeu
