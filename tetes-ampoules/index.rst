@@ -11,10 +11,10 @@ habitent Melahan, etc. Alors parle en autour de toi !
 
 Tu trouveras ici plein d'informations sérieuses mais rigolotes sur:
 
-* la gestion de la ville par les grands élus lulu,
+* la gestion de la ville par les grands élus lulus,
 * sur les plans du promoteur tuteur,
-* sur la réglementation,
-* sur les risques naturels,
+* sur la réglementation qui devrait toujours être appliquée,
+* sur les risques naturels sauf pour les élus lulus,
 * etc.
 
 
