@@ -53,8 +53,9 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     actualites/index
     regles/index
     defis/index
-    tetes/index
-    meta/index
+    tetes-ampoules/index
+    contribue/index
+    abonne-toi/index
 
 .. _`blog de la crèche` : http://crechemeylan.unblog.fr/
 
