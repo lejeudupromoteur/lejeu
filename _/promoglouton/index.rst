@@ -1,9 +1,26 @@
 Promoglouton
 ------------
 
-Aide notre ami promoteur a manger tous les arbres. C'est un vrai glouton. Attention a ne pas te faire attraper pour
-les habitants
-zinzins qui surveille la quartier !
+Aide notre ami promoteur a manger tous les arbres du terrain zinzin. C'est un vrai glouton ce promoteur !
+Attention a ne pas te faire attraper pour les habitants zinzins qui se promènent dans le quartier. Ils sont
+fous ces habitants zinzins, mais il ne sont pas bien malins, il font juste se promener.
+Guide le promoteur glouton, fait vite, et ce sera **10 points pour chaque arbre avalé**.
+
+**comportement "pillules"** a adapter selon possibilité les redessiner en phantomes.
+
+:version pillule=?:
+    Tu te demandes où sont les élus lulus ? Ils sont pas là la pour t'aider. Ils ont vendu le terrain pour avoir
+    des sous et c'est tout. En fait certains ne connaissaient même pas le terrain, alors...
+    Oublie les, tu ne peux pas compter sur eux. Aide simplement le promoteur glouton à manger le maximum d'arbres.
+
+:version pillule=elus:
+
+    Heureusement le promoteur glouton a des amis à la mairie. Il a demandé a quatre élus lulus de rester au
+    quatre coins du quartier pour pour maintenir l'ordre. Chaque fois que promoglouton encontre un élus lulus
+    celui-ci fais un discours qui hypnothyse tous les habitants. Pendant ce temps tu peux faire ce que tu veux
+    et même avaler des habitants ! Mais attention, les habitants, quand ils se reveillent redeviennent méchants.
+    Alors cours vite.
+
 
 ..  raw:: html
 
@@ -45,7 +62,7 @@ zinzins qui surveille la quartier !
         <!-- pacman zone -->
     </div>
 
-    <script src="../../_static/pacman/pacman.js"></script>
+    <script src="../../_static/promoglouton/pacman.js"></script>
     <script src="../../_static/modernizr-1.5.min.js"></script>
     <script>
 
