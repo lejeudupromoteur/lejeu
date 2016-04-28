@@ -78,20 +78,20 @@ var
 
     FOOTER_BACKGROUND = FLOOR_COLOR,
     FOOTER_FONT = "14px BDCartoonShoutRegular",
-    FOOTER_TEXT_COLOR = "#FFFF00",
+    FOOTER_TEXT_COLOR = "#000000",
     SOUND_ENABLED_COLOR = "#00FF00",
     SOUND_DISABLED_COLOR = "#FF0000",
     SOUND_FONT = "bold 16px sans-serif",
     SOUND_TEXT = "♪",
 
     SCORE_TEXT = "Arbres: ",
-    SCORE_DIVIDE = 10,
+    SCORE_DIVIDE = 1,
     SCORE_HPOS = 30,
 
     LEVEL_TEXT = "Niveau: ",
     LEVEL_HPOS = 240,
     START_MESSAGE = "Appuie sur D pour démarrer !",
-    MESSAGE_COLOR = "#FFFF00",
+    MESSAGE_COLOR = "#000000",
     MESSAGE_FONT = "14px BDCartoonShoutRegular" ;
 
 
