@@ -12,7 +12,7 @@ jeux interactifs
     promoglouton/index
     sauvekiki/index
     roule-bouboulle/index
-    ma-place-a-moi/index
+    zone-combats/index
 
 petition
 ''''''''
