@@ -55,10 +55,11 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     jeux/index
     humour/index
     tetes-ampoules/index
-    desinformations/index
     contribue/index
     abonne-toi/index
     petitionne/index
+
+..  desinformations/index
 
 .. _`blog de la crèche` : http://crechemeylan.unblog.fr/
 
