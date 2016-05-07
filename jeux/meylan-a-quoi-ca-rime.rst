@@ -3,54 +3,92 @@ Melahan, à quoi ca rime ?
 
 MUSIQUE
 
-Un chanteur tuteur compose une ode à la ville de Melahan. Il aime la phonétique car cela lui permet de faire des jeux
-de mots laids pour gens bêtes. Il avait noté en face de chaque refrain de quoi il voulait parler, mais son carnet
-s’est envolé et maintenant tout est mélangé !  ::
+Un chanteur zinzin a composé une ode à la ville de Melahan. Il comptait l'interpréter lors de la réunion
+de concertation à la Maison de la Musique le 3 mai 2016, mais hélàs il y avait tellement de chahu à l'entrée
+qu'il a perdu sa partition. Il avait noté en face de chaque refrain de quoi il voulait parler, mais son carnet
+s’est envolé et maintenant tout est mélangé ! ::
 
+    ============================== ============================= ==========================================
+                Rime                      Sujet                                       Auteur
+    ============================== ============================= ==========================================
     (1) Melahan vente              (a) concertation              (X) Un élu lulu
     (2) Melahan prison             (b) decision                  (Y) Un vigile lulu
-    (3) Melahan veilleuse          (c) jolie fille               (Z) Le fils du gendarme llulu
+    (3) Melahan veilleuse          (c) jolie fille               (Z) Bubulle, le fils du gendarme lulu
     (4) Melahan entier             (d) parcelle                  (T) Une élue lulue
     (5) Melahan grand              (e) crèche                    (U) Le promoteur tuteur
-    (6) Melahan colis                                            (V) Les voisins zinzins
+    (6) Melahan couleur                                          (W) Les voisins zinzins
+    (7) Melahan colis              (f) la télé                   (V) Le cousin de bouboulle
+    ============================== ============================= ==========================================
 
-
-Aide notre chanteur à remettre les choses en ordre. Tu dois re-composer:
+Aide notre chanteur à remettre les choses en ordre et associer :
 
 *   chaque refrain (première colonne) avec
 *   qui l'a dit (troisième colonne)
 *   a quoi le chanteur faisant référence (deuxième colonne).
 
-Si tu ne comprends pas demande à la mairie de Melahan et demande aux élus lulus si ils savent.
+Si tu ne comprends pas demande à la Mairie de Melahan et demande aux élus lulus si ils savent de quoi le chanteur
+zinzins voulaient parler.
 
-..  admonition:: Réponse
+
+..  admonition:: Melahan vente
     :class: toggle
 
-    **Réponse mercredi prochain, enfin celui d'après.**
+    .. pull-quote::
 
+        *"La parcelle, mets la en vente"*. -- Le promoteur tuteur à un élu lulu.
 
-.. ....................................................................................................................
+..  admonition:: Melahan prison
+    :class: toggle
 
-    *   La parcelle - **Mets la en vente** - Le promoteur tuteur à un élu lulu.
+    .. pull-quote::
 
-    *   La crêche - **Mets la en prison** - Le fils du gendarme lulu.
+        *"La crêche - mets la en prison"*. Bubulle fils du gendarme lulu.
 
-        Il ne parle pas encore très bien car il n’a que trois mois... Il vaut dire "transforme la en prison". Il
-        propose a son papa cette transformation pour que les un peu méchants de melahan soient
-        bien au chaud. Il suffirait de mettre quelle barreaux aux fênetres et cela ferait l'affaire.
+    *   Bubulle ne parle pas encore très bien. Il n’a que 5 ans et 1 mois. Quel soucis !
+        Bubulle voulait dire a son papa "transforme la (crèche) en prison", "comme ca les un peu méchants de
+        Mélahan seront au chaud.". Bubulle est malin. Il suffirait de mettre quelques barreaux aux fênetres
+        de la crèche et cela ferait l'affaire.
 
-    *   La concertation - **Mets la en veilleuse** - Un conseil du promoteur aux élus lulus.
+..  admonition:: Melahan veilleuse
+    :class: toggle
 
-    *   La parcelle - **Mets la en entier** - Le promoteur à un élu lulu.
+    .. pull-quote::
+        *"La concertation, mets la en veilleuse"*. Le promoteur à un élu lulu.
 
-        Il voulait la parcelle zinzin juste en face de
-        celle qu’il a déjà, comme ca ca n’en fera plus qu’une. Plus pratique pour tous.
+..  admonition:: Melahan entier
+    :class: toggle
 
-    *   La jolie fille - **Mets la en grand** - Un vigile lulu.
+    .. pull-quote::
+        *"La parcelle, mets la en entier"*. Le promoteur à un élu lulu.
 
-        Un vigile à lulu à son collègue scotché devant un écran de vidéo surveillance.
+    *   Le promoteur voulait la parcelle zinzin juste en face de celle qu’il a déjà, comme ca ca n’en fera plus
+        qu’une. Plus pratique pour tous. Vente à la coupe à Melahan, mais si on connait le vendeur on peut
+        avoir de belles coupes.
 
-    *   **Mélancolie** - Les voisins zinzins.
+..  admonition:: Melahan grand
+    :class: toggle
 
-        Les voisins zinin se rappelant de leur lointaines promenades, juste à coté, lorsqu’ils se
+    .. pull-quote::
+
+        *"La jolie fille, mets la en grand*. Un vigile lulu à son collègue.
+
+    *   Un vigile à lulu à son collègue scotché devant un écran de vidéo-surveillance.
+
+..  admonition:: Melahan couleur
+    :class: toggle
+
+    .. todo::   ajouter la référence à melahn couleur et écrire le texte
+
+..  admonition:: Melahan colis
+    :class: toggle
+
+    .. pull-quote::
+
+        *"Mélancolie"* - Les voisins zinzins.
+        *"Mélancolie"* - Les voisins zinzins.
+
+    *   Les voisins zinzins se rappelant de leurs lointaines promenades, juste à coté, lorsqu’ils se
         promenaient dans la verdure le long du terrain zinzin… Ah ce que c’était bien !
+
+
+
