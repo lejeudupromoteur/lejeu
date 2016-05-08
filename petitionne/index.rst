@@ -1,6 +1,13 @@
 Pétitionne !
 ============
 
+.. note::
+
+    Cette page est en cour de construction. Pour signer vas voir la
+    page du `Collectif Buclos <http://crechemeylan.org>`_.
+
+
+
 Petit, signe ! Signe la pétition ! Là, petit, viens en signant !
 
 ..  attention::
