@@ -8,7 +8,8 @@
   };
 
   mk.config = {
-    IMAGES       : '../../_static/mk.js/game/images/',
+    // TODO: Set this value from outside
+    IMAGES       : '../../_static/zone-combats/mk.js/game/images/',
     ARENAS       : 'arenas/',
     FIGHTERS     : 'fighters/',
     STEP_DURATION: 80,
