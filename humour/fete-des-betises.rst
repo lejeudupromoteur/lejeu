@@ -15,8 +15,12 @@ Envoie nous des bétises !
     * Si ton petite soeur ou ta grand-mère se met à pleurer, trouves-en une autre (de bétise).
     * Si ta copine te donne une claque, essaye a nouveau, n'en cherche pas un autre (de copine).
     * Si ton copain te donne une claque, donne lui un coup de pied !
-    * Si le gendarme te met en prison avec 18 mois, c'est fini, attend 5 ans.
+    * Si les gendarmes te mettent en prison pour 18 mois, c'est fini pour l'instant. Attend 5 ans.
+
+    Si tu peux pas tester sur ta grand-mère, petite soeur, copain/copine, gendarme, etc. ne
+    t'inquiètes pas. Envoie nous tes bétises et on testera.
 
 
 ..  _`c’est en forgeant que l’on devient forgeron`:
     https://fr.wiktionary.org/wiki/c%E2%80%99est_en_forgeant_que_l%E2%80%99on_devient_forgeron
+
