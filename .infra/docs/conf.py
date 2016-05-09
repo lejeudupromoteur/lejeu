@@ -217,6 +217,8 @@ html_title = "Meylan"
 html_static_path = [
     os.path.join(CONF_DIR, 'static'),
     os.path.join(PROJECT_DIR, '_', 'zone-combats','static'),
+    os.path.join(PROJECT_DIR, '_', 'promoglouton','static'),
+    os.path.join(PROJECT_DIR, '_', 'sauvekiki','static'),
     ]
 
 # Add any extra paths that contain custom files (such as robots.txt or

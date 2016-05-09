@@ -5,9 +5,9 @@ jeux
 
 ..  raw:: html
 
-    <script src="../../_static/mk.js/game/src/movement.js"></script>
-    <script src="../../_static/mk.js/game/src/mk.js"></script>
-    <link rel="stylesheet" href="../../_static/mk.js/game/styles/styles.css"/>
+    <script src="../../_static/zone-combats/mk.js/game/src/movement.js"></script>
+    <script src="../../_static/zone-combats/mk.js/game/src/mk.js"></script>
+    <link rel="stylesheet" href="../../_static/zone-combats/mk.js/game/styles/styles.css"/>
 
     <div id="parent">
         <div id="utils">
