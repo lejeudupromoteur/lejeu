@@ -15,15 +15,6 @@ jeux interactifs
     roule-bouboulle/index
     zone-combats/index
 
-petition
-''''''''
-
-
-
-..  raw::   html
-
-    <iframe src="//slides.com/collectif-buclos/petition/embed?style=dark" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 
 ..  ..
