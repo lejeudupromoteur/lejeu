@@ -16,6 +16,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-science-fiction
     meylan-quelles-ambitions
     meylan-cahutes
+    meylan-complexe
     meylan-couleur
     meylan-diplome-concertation
     meylan-figurines
