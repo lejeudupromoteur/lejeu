@@ -6,7 +6,7 @@ Fête des bétises
 ..  figure:: images/pensee.png
     :align: center
 
-Envoie nous des bétises !
+:ref:`Envoie nous des bétises<boite-a-idees>` !
 
 ..  attention::
 
@@ -17,8 +17,8 @@ Envoie nous des bétises !
     * Si ton copain te donne une claque, donne lui un coup de pied !
     * Si les gendarmes te mettent en prison pour 18 mois, c'est fini pour l'instant. Attend 5 ans.
 
-    Si tu peux pas tester sur ta grand-mère, petite soeur, copain/copine, gendarme, etc. ne
-    t'inquiètes pas. Envoie nous tes bétises et on testera.
+    **Si tu peux pas tester sur ta grand-mère, petite soeur, copain/copine, gendarme, etc. ne t'inquiètes pas.**
+    :ref:`Envoie nous des bétises<boite-a-idees>` on testera.
 
 
 ..  _`c’est en forgeant que l’on devient forgeron`:
