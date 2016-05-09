@@ -1,4 +1,4 @@
-..  _`Boites à idées`:
+..  _`boite-a-idees`:
 
 
 Boites à idées
