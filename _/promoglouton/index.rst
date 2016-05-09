@@ -1,33 +1,6 @@
 Promoglouton
 ------------
 
-
-..  raw:: html
-
-    <!--
-    <img id="map-image" src="../../_static/promoglouton/images/promoglouton.png" />
-
-        <img id="scream" width="220" height="277" src="../../_static/promoglouton/images/promoglouton.png" alt="The Scream">
-
-        <canvas id="myCanvas" width="240" height="297" style="border:1px solid #d3d3d3;">
-            Your browser does not support the HTML5 canvas tag.
-        </canvas>
-
-        <script>
-        window.onload = function() {
-            var c = document.getElementById("myCanvas");
-            var ctx = c.getContext("2d");
-            var img = document.getElementById("scream");
-            ctx.drawImage(img, 20, 20, 50,30);
-        }
-
-    </script>
-    -->
-
-
-
-
-
 ..  raw:: html
 
 
@@ -36,7 +9,7 @@ Promoglouton
         <div id="shim">
             for font face
         </div>
-        <img id="tree-image" src="../../_static/promoglouton/images/tree.gif" />
+        <img id="tree-image" style="display:none;" src="../../_static/promoglouton/images/tree.gif" />
         <style type="text/css">
 
             @font-face {
@@ -111,10 +84,33 @@ rencontre avec un élu    xxx points
 habitant enfumé avalé    xxx points
 ======================== ==========
 
-:version pillule=elus:
-<
+..  todo::
+
     Heureusement le promoteur glouton a des amis à la mairie. Il a demandé a quatre élus lulus de rester au
     quatre coins du quartier pour pour maintenir l'ordre. Chaque fois que promoglouton encontre un élus lulus
     celui-ci fais un discours qui hypnothyse tous les habitants. Pendant ce temps tu peux faire ce que tu veux
     et même avaler des habitants ! Mais attention, les habitants, quand ils se reveillent redeviennent méchants.
     Alors cours vite.
+
+
+..  raw:: html
+
+    <!--
+    <img id="map-image" src="../../_static/promoglouton/images/promoglouton.png" />
+
+        <img id="scream" width="220" height="277" src="../../_static/promoglouton/images/promoglouton.png" alt="The Scream">
+
+        <canvas id="myCanvas" width="240" height="297" style="border:1px solid #d3d3d3;">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+
+        <script>
+        window.onload = function() {
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            var img = document.getElementById("scream");
+            ctx.drawImage(img, 20, 20, 50,30);
+        }
+
+    </script>
+    -->
