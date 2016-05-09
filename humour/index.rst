@@ -11,4 +11,5 @@ Voici des contributions de nos lecteurs. Envoie nous la tienne !
     meylan-betonnage-partage
     meylan-cahutes
     meylan-couleur
+    meylan-diplome-concertation
     meylan-figurines
