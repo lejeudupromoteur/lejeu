@@ -8,7 +8,7 @@ Ci dessous l'actualité de ceux qui crèchent à Meylan et de ceux qui n'y crèc
 
     *
         - L'actualité des gens qui crèchent à Meylan
-        - L'actualité des gens qui aim€nt M€ylan et leur mari.
+        - L'actualité des gens qui aim€nt M€ylan et son mari.
     *
         -
             .. raw:: html
@@ -22,4 +22,4 @@ Ci dessous l'actualité de ceux qui crèchent à Meylan et de ceux qui n'y crèc
 
     *
         - http://crechemeylan.unblog.fr/
-        - http://www.meylan.fr/index.php?idtf=1449
+        - `http://www.meylan.fr/ <http://www.meylan.fr/index.php?idtf=1691>`_
