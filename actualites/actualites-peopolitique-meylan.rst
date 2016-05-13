@@ -37,9 +37,7 @@ Quelle ville modèle. Heureusement c'est pas comme ça à Melahan !
             .. raw:: html
                 :file: embeds/rss-verts-de-meylan.html
 
-        -   **J'aime mélanchon, j'aime mes lentilles, etc.**
-
-            http://aimeylan.fr
+        -
 
             .. raw:: html
                 :file: embeds/facebook-agir-pour-meylan.html
