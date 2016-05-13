@@ -26,6 +26,7 @@ Pour être informé :ref:`abonne-toi <abonne-toi>` !
 
 ..  toctree::
 
+    actualites-agenda
     actualites-creche-meylan
     actualites-peopolitique-meylan
     actualites-abonnements
