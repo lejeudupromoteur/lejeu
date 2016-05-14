@@ -35,7 +35,7 @@ zinzins voulaient parler.
 
     .. pull-quote::
 
-        *"La parcelle, mets la en vente"*. -- Le promoteur tuteur à un élu lulu.
+        *"La parcelle, mets la en vente, à la coupe et à la sauvette"*. -- Le promoteur tuteur à un élu lulu.
 
 ..  admonition:: Melahan prison
     :class: toggle
@@ -44,7 +44,7 @@ zinzins voulaient parler.
 
         *"La crêche - mets la en prison"*. Bubulle fils du gendarme lulu.
 
-    *   Bubulle ne parle pas encore très bien. Il n’a que 5 ans et 1 mois. Quel soucis !
+    *   Bubulle ne parle pas encore très bien. Il n’a que 18 mois avec soucis.
         Bubulle voulait dire a son papa "transforme la (crèche) en prison", "comme ca les un peu méchants de
         Mélahan seront au chaud.". Bubulle est malin. Il suffirait de mettre quelques barreaux aux fênetres
         de la crèche et cela ferait l'affaire.
@@ -72,12 +72,15 @@ zinzins voulaient parler.
 
         *"La jolie fille, mets la en grand*. Un vigile lulu à son collègue.
 
-    *   Un vigile à lulu à son collègue scotché devant un écran de vidéo-surveillance.
+    *   Un vigile à lulu à son collègue scotché devant un écran de vidéo-surveillance de la ville de
+        Melahan.
+
 
 ..  admonition:: Melahan couleur
     :class: toggle
 
-    .. todo::   ajouter la référence à melahn couleur et écrire le texte
+    .. ..
+        .. todo::   ajouter la référence à melahn couleur et écrire le texte
 
 ..  admonition:: Melahan colis
     :class: toggle
