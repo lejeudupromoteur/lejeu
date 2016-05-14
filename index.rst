@@ -1,8 +1,8 @@
 Joue le jeu du promoteur
 ========================
 
-**Avec les élus lulus, joue le jeu du promoteur tuteur: si tu détruis ton ancienne crèche, le promoteur donnera 1.8M € à
-la mairie de Melahan.**
+**Avec les élus lulus, joue le jeu du promoteur. Participe à la vente à la coupe et à la sauvette
+de Melahan: si tu détruis ton ancienne crèche, promoglouton donnera 1.8M € à la mairie de Melahan.**
 
 ..  |LogoCollectif| image:: meylan/CollectifBuclosLogoEtTexteBlanc.png
                         :scale: 50%
