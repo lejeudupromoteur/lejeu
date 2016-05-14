@@ -197,7 +197,7 @@ else:
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Meylan"
+html_title = "Meylan - Logement & Immobilier"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -217,7 +217,7 @@ html_title = "Meylan"
 html_static_path = [
     os.path.join(CONF_DIR, 'static'),
     os.path.join(PROJECT_DIR, '_', 'zone-combats','static'),
-    os.path.join(PROJECT_DIR, '_', 'promoglouton','static'),
+    os.path.join(PROJECT_DIR, 'jeux', 'meylan-promoglouton','static'),
     os.path.join(PROJECT_DIR, '_', 'sauvekiki','static'),
     ]
 

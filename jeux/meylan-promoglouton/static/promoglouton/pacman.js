@@ -68,13 +68,9 @@ Pacman.MAP = [
 Pacman.MAP = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
-	[0, 5, 4, 5, 5, 5, 5, 5, 5, 0],
-	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
-	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
 	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
 	[0, 5, 5, 5, 5, 0, 5, 5, 5, 0],
 	[0, 5, 5, 0, 0, 0, 5, 5, 5, 0],
-	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
 	[0, 5, 5, 5, 5, 5, 5, 5, 5, 0],
 	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 ];
@@ -183,9 +179,13 @@ var
     LEVEL_HPOS = 240,
 
     // MESSAGES ===============================================
+    MESSAGE_Y = 30 ;
     START_MESSAGE = "Appuie sur D pour démarrer !",
+    COUNTDOWN_MESSAGE = "Depart dans ",
     MESSAGE_COLOR = '#000000',
-    MESSAGE_FONT = "14px BDCartoonShoutRegular" ;
+    MESSAGE_FONT = "18px BDCartoonShoutRegular" ;
+    MESSAGE_PAUSE = "Fais ta pause et reviens vite !" ;
+    MESSAGE_LOADING = "On charge ..." ;
 
 
 
@@ -229,7 +229,7 @@ var KEY = {'BACKSPACE': 8, 'TAB': 9, 'NUM_PAD_CLEAR': 12, 'ENTER': 13, 'SHIFT': 
 var
     START_KEY = KEY.D,
     SOUND_KEY = KEY.S,
-    PAUSE_KEY = KEY.P
+    PAUSE_KEY = KEY.SPACEBAR // KEY.P
     ;
 
 
@@ -1112,7 +1112,7 @@ var PACMAN = (function () {
         ctx.font      = MESSAGE_FONT ;
         var width = ctx.measureText(text).width,
             x     = ((map.width * map.blockSize) - width) / 2;        
-        ctx.fillText(text, x, (map.height * BLOCK_COORD_SIZE) + 8);
+        ctx.fillText(text, x, MESSAGE_Y ) ; //(map.height * BLOCK_COORD_SIZE) + 8);
     }
 
     function soundDisabled() {
@@ -1153,7 +1153,7 @@ var PACMAN = (function () {
             setState(PAUSE);
             audio.pause();
             map.draw(ctx);
-            dialog("Fais ta pause !");
+            dialog(MESSAGE_PAUSE);
         } else if (state !== PAUSE) {   
             return user.keyDown(e);
         }
@@ -1307,7 +1307,7 @@ var PACMAN = (function () {
                 if (diff !== lastTime) { 
                     lastTime = diff;
                     map.draw(ctx);
-                    dialog("Depart dans " + diff+" s");
+                    dialog(COUNTDOWN_MESSAGE + diff+" s");
                 }
             }
         } 
@@ -1366,7 +1366,7 @@ var PACMAN = (function () {
         }
         
         map.draw(ctx);
-        dialog("Loading ...");
+        dialog(MESSAGE_LOADING);
 
         var extension = Modernizr.audio.ogg ? 'ogg' : 'mp3';
 
