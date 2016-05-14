@@ -10,7 +10,6 @@ jeux interactifs
 ..  toctree::
 
     h5p/index
-    promoglouton/index
     sauvekiki/index
     roule-bouboulle/index
     zone-combats/index
