@@ -1,28 +1,28 @@
 L'actualité des peopolitiques
 -----------------------------
 
-L'actualité people & tics des élus élus, des élus pas élus, de ceux qui voudrait l'être,
-de ceux qui pourrait l'être, de ceux qui voudraient que les copains le soit, etc. etc. Ouille ouille,
-c'est compliqué ! Mais t'inquiètes pas ils sont pas méchants.
+L'actualité *people & tics* des élus élus, des élus pas élus, de ceux qui voudrait l'être,
+de ceux qui pourrait l'être, de ceux qui voudraient que les copains le soient, etc. etc.
+Ouille ouille, c'est compliqué ! Mais t'inquiètes pas ils sont pas méchants.
 
-Ce qui est dingue à Meylan, c'est que tout le monde est dans l'opposition, droite, gauche, etc.
-Tout cela à cause de MA' dalton. Et aussi de ceux qui aiment MA' dalton et leurs fauteuils plus
-que les habitants.
+Ce qui est trop rigolo à Melahan, c'est que tout le monde est dans l'opposition de la droite à la gauche.
+Tout cela gràce à `MA' dalton`_. Et bien sûr aussi `aux frères et soeurs dalton`_. Ils aiment MA' dalton et leurs
+fauteuils plus que les habitants, mais ca on peut pas leur en vouloir, c'est leur maman !
 
-Quelle ville modèle. Heureusement c'est pas comme ça à Melahan !
+Heureusement, ca se passe mieux à Meylan :
 
 .. list-table::
     :header-rows: 0
 
     *
-        -   **C'est bien, mais lent a venir, les élections !**
+        -   C'est bien, **mais lent a venir**, les élections !
 
             http://meylan.avenir.over-blog.fr
 
             .. raw:: html
                 :file: embeds/rss-meylan-avenir.html
 
-        -   **J'aime mélanchon, j'aime mes lentilles, etc.**
+        -   Oh oui ! **J'aime. Mais lent** ... ement !
 
             http://aimeylan.fr
 
@@ -30,7 +30,7 @@ Quelle ville modèle. Heureusement c'est pas comme ça à Melahan !
                 :file: embeds/rss-aimeylan.html
 
     *
-        -   **Les vers de Meylan, les pieds sur terre.**
+        -   **Les vers de Meylan**, les pieds sur terre.
 
             http://www.lesvertsdemeylan.asso.fr/
 
@@ -65,3 +65,8 @@ Quelle ville modèle. Heureusement c'est pas comme ça à Melahan !
 
 
 
+..  _`MA' dalton` :
+    http://www.meylan-bibliotheque.fr/recherche/viewnotice/expressionRecherche/ma+dalton/tri/*/clef/LUCKYLUKETOME38-MADALTON-GOSCINNYR--DARGAUD-1999-1/id/277559
+
+..  _`aux frères et soeurs dalton`:
+    http://www.meylan-bibliotheque.fr/recherche/viewnotice/expressionRecherche/dalton/tri/*/clef/LUCKYLUKETOME60-LAMNESIEDESDALTON-FAUCHEX--LUCKYPRODUCTIONS-1991-1/id/67093
