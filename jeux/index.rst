@@ -22,6 +22,7 @@ Tout les mercredis tu auras de nouveaux jeux, alors :ref:`abonne-toi <abonne-toi
     meylan-ma-langue-au-cheval
     meylan-a-quoi-ca-rime
     meylan-l-etroit-non-sens
+    meylan-dalton-city
     meylan-epikoi
 
 
