@@ -6,4 +6,4 @@ portrait semble avoir été arraché. Pourquoi, personne ne sais...
 
 ..  note::
 
-    Bientôt en ligne de mire.
+    Bientôt en ligne (de mire).
