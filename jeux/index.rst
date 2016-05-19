@@ -23,6 +23,7 @@ Tout les mercredis tu auras de nouveaux jeux, alors :ref:`abonne-toi <abonne-toi
     meylan-a-quoi-ca-rime
     meylan-l-etroit-non-sens
     meylan-dalton-city
+    meylan-la-claque-democratique
     meylan-epikoi
 
 
