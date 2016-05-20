@@ -1,8 +1,11 @@
 Pétitionne !
 ============
 
-Le `Collectif Buclos`_ propose la signature d'une pétition. Informe toi.
-Utilise le bouton de droite pour voir le présenation en grand écran.
+A Meylan, le `Collectif Buclos`_ propose la signature d'une pétition.
+Il s'agit de sauvegarder le terrain de la crèche des Buclos.
+
+**Informe toi**. Utilise le bouton à droite en bas de la présentation ci-dessous.
+Tu veras la présentation en grand écran !
 
 ..  raw::   html
 
