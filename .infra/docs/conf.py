@@ -59,10 +59,11 @@ extensions = [
     # 'sphinx.ext.doctest',
     # 'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
+    'sphinxcontrib.images',   # http://pythonhosted.org/sphinxcontrib-images
     # 'sphinx.ext.coverage',
     # 'sphinx.ext.mathjax',
     # 'sphinx.ext.ifconfig',
-    #'sphinx.ext.viewcode',
+    # 'sphinx.ext.viewcode',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -114,7 +115,6 @@ exclude_patterns = [
     'README.rst',
     '**/.build/*.generated.rst',
     # '_/index.rst',
-    'desinformations/index.rst',
     'demos']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
