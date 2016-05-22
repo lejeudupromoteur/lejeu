@@ -1,6 +1,11 @@
 L'actualité des peopolitiques
 -----------------------------
 
+..  todo::
+
+    page peoplitique supprimée. Voir conf
+
+
 L'actualité *people & tics* des élus élus, des élus pas élus, de ceux qui voudrait l'être,
 de ceux qui pourrait l'être, de ceux qui voudraient que les copains le soient, etc. etc.
 Ouille ouille, c'est compliqué ! Mais t'inquiètes pas ils sont pas méchants.
@@ -13,6 +18,19 @@ Heureusement, ca se passe mieux à Meylan :
 
 .. list-table::
     :header-rows: 0
+
+    *
+        -   **Les vers de Meylan**, les pieds sur terre.
+
+            http://www.lesvertsdemeylan.asso.fr/
+
+            .. raw:: html
+                :file: embeds/rss-verts-de-meylan.html
+
+        -
+
+            .. raw:: html
+                :file: embeds/facebook-agir-pour-meylan.html
 
     *
         -   C'est bien, **mais lent a venir**, les élections !
@@ -28,19 +46,6 @@ Heureusement, ca se passe mieux à Meylan :
 
             .. raw:: html
                 :file: embeds/rss-aimeylan.html
-
-    *
-        -   **Les vers de Meylan**, les pieds sur terre.
-
-            http://www.lesvertsdemeylan.asso.fr/
-
-            .. raw:: html
-                :file: embeds/rss-verts-de-meylan.html
-
-        -
-
-            .. raw:: html
-                :file: embeds/facebook-agir-pour-meylan.html
 
 
 ..  attention::

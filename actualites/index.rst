@@ -14,7 +14,5 @@ Pour être informé :ref:`abonne-toi <abonne-toi>` !
 
     actualites-agenda
     actualites-creche-meylan
-    actualites-peopolitique-meylan
     actualites-bibliotheques-meylan
     actualites-abonnements
-
