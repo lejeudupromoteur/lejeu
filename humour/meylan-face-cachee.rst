@@ -1,9 +1,41 @@
 La face cachée de Ma' Dalton
 ============================
 
-Sauras tu trouver la face cachée de Ma' Dalton ? Il te faudra sortir de Melahan car son
-portrait semble avoir été arraché. Pourquoi, personne ne sais...
+Sauras tu trouver la face cachée de Ma' Dalton ?
 
-..  note::
+Certainement pas ! A Melahan, anciennement "Dalton City", tout est a été discrètement effacé
+de son passage. Ou peut être caché sous le tapis. Ou ailleurs. Nous on sait pas (et on s'en moque).
 
-    Bientôt en ligne (de mire).
+En tout cas gràce à Luky Luke l'opération vague propre semble s'être répandue de la Mairie
+jusqu'aux Bibilothèques de la ville ! Le portait de Ma' Dalton a été arraché partout et personne
+ne sais pourquoi. Parole du Luky Luke, on n'a jamais vu ca ! Trop rigolo.
+
+..  figure:: images/meylan-ma-dalton.jpg
+    :align: center
+    :target: http://www.meylan-bibliotheque.fr/recherche/simple/expressionRecherche/lucky+luke/tri/*/page/2
+
+    La face cachée et arrachée de Ma' Dalton
+
+Si tu nous crois pas `va voir toi même la liste des luky luke`_. C'est sur la `deuxième page`_.
+
+**Alors, tu nous crois maintenant ?** Il se passe vraiment de drôle de truc à Melahan.
+Mais chuut !!! Il faut pas que ca se sache.
+
+Maintenant la question qui se pose est "mais qui c'est qu'a fait ça !". C'est pas nous on le jure !
+Affaire à suivre ...
+
+..  _`va voir toi même la liste des luky luke`:
+    http://www.meylan-bibliotheque.fr/recherche/simple/expressionRecherche/lucky+luke/
+
+..  _`deuxième page`:
+    http://www.meylan-bibliotheque.fr/recherche/simple/expressionRecherche/lucky+luke/tri/*/page/2
+
+
+.. .... note::
+    .. note::
+
+    On ne sais pas à ce jour s'il existe encore le portrait de Ma' Dalton sur le livre lui-même.
+    A chaque fois que l'on regarde si il est disponible en bibliothèque il est pris. Sans doute
+    un fanatique de Ma' Dalton qui ne veut pas passer à la suite.
+
+    meylan-adeptes-de-ma-dalton.jpg
