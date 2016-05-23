@@ -1,3 +1,5 @@
+..  _`MaDalton`:
+
 La face cachée de Ma' Dalton
 ============================
 
@@ -22,7 +24,7 @@ Si tu nous crois pas `va voir toi même la liste des luky luke`_. C'est sur la `
 Mais chuut !!! Il faut pas que ca se sache.
 
 Maintenant la question qui se pose est "mais qui c'est qu'a fait ça !". C'est pas nous on le jure !
-Affaire à suivre ...
+:ref:`Affaire à suivre <AdeptesMADalton>` ...
 
 ..  _`va voir toi même la liste des luky luke`:
     http://www.meylan-bibliotheque.fr/recherche/simple/expressionRecherche/lucky+luke/
@@ -31,11 +33,3 @@ Affaire à suivre ...
     http://www.meylan-bibliotheque.fr/recherche/simple/expressionRecherche/lucky+luke/tri/*/page/2
 
 
-.. .... note::
-    .. note::
-
-    On ne sais pas à ce jour s'il existe encore le portrait de Ma' Dalton sur le livre lui-même.
-    A chaque fois que l'on regarde si il est disponible en bibliothèque il est pris. Sans doute
-    un fanatique de Ma' Dalton qui ne veut pas passer à la suite.
-
-    meylan-adeptes-de-ma-dalton.jpg
