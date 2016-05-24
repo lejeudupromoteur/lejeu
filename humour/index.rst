@@ -25,6 +25,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-face-a-face
     meylan-figurines
     meylan-dense
+    meylan-fil-d-attente
     meylan-face-cachee
     meylan-adeptes-de-ma-dalton
     fete-des-betises
