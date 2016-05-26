@@ -1,3 +1,5 @@
+..  _`DiplomeConcertation` :
+
 Diplôme de la concertation
 ===========================
 
