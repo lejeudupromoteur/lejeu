@@ -1,3 +1,5 @@
+..  _`QuelCarton`:
+
 Quel carton !
 =============
 
@@ -18,7 +20,7 @@ La Mairie de la ville modèle a envoyé un magnifique `carton d'invitation`_ pou
 
 Zut alors, Monsieur grognon mélange les torchons et les cartons d'invitations :-(
 Quoi qu'il en soit, la question est posée :
-** mais qui-donc a bien pu faire ce carton/torchon et qu'avait il dans la tête à ce moment là** ?
+**mais qui-donc a bien pu faire ce carton/torchon et qu'avait il dans la tête à ce moment là** ?
 
 Aide la rédaction du jeudupromoteur a résoudre cette énigme douteuse.
 
@@ -74,6 +76,10 @@ Devine qui a fait un tel carton.
         :align: center
 
         Logo du CNRS. Un exemple de réfelaxion très poussé.
+
+
+
+
 
 ..  _`carton d'invitation`:
     http://www.meylan.fr/uploads/Document/a0/WEB_CHEMIN_16686_1461582271.pdf
