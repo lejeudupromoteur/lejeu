@@ -16,10 +16,9 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-science-fiction
     meylan-quelles-ambitions
     meylan-inovalue
-    meylan-ma-ville
+    meylan-complexe
     meylan-cahutes
     meylan-carton
-    meylan-complexe
     meylan-couleur
     meylan-diplome-concertation
     meylan-face-a-face
@@ -27,7 +26,9 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-dense
     meylan-fil-d-attente
     meylan-face-cachee
+    meylan-ma-ville
+    meylan-double-jeu-a-la-mairie
+    meylan-tetines-dans-la-prairie
     meylan-adeptes-de-ma-dalton
-    double-jeu-a-la-mairie
     fete-des-betises
 
