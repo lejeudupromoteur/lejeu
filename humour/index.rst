@@ -13,8 +13,8 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
 
 .. toctree::
 
-    meylan-theoremes-biscotte-2
     meylan-science-fiction
+    meylan-theoremes-biscotte-2
     meylan-quelles-ambitions
     meylan-inovalue
     meylan-complexe
