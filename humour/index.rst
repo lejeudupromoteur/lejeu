@@ -13,6 +13,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
 
 .. toctree::
 
+    meylan-theoremes-biscotte-2
     meylan-science-fiction
     meylan-quelles-ambitions
     meylan-inovalue
@@ -29,6 +30,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-ma-ville
     meylan-double-jeu-a-la-mairie
     meylan-tetines-dans-la-prairie
+    meylan-vue-plongeante-sur-seyssins
     meylan-adeptes-de-ma-dalton
     fete-des-betises
 

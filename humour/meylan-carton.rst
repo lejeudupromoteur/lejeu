@@ -3,7 +3,8 @@
 Quel carton !
 =============
 
-La Mairie de la ville modèle a envoyé un magnifique `carton d'invitation`_ pour la réunion du 03 Mai 2016.
+La Mairie de la ville modèle a envoyé un magnifique `carton d'invitation`_ pour la
+réunion du 03 Mai 2016. Nous on a trouvé ca trop belles les couleurs, et tout et tout.
 
 ============== ==============
     Recto          Verso
@@ -11,7 +12,8 @@ La Mairie de la ville modèle a envoyé un magnifique `carton d'invitation`_ pou
    |recto|         |verso|
 ============== ==============
 
-**26 avril 2016, 14:14**. Un habitant-grognon-et-vieux-con nous à laissé le message suivant ::
+**26 avril 2016, 14:14**. Mais un habitant-grognon-et-vieux-con nous a laissé le message
+suivant ::
 
     C'est qui qui a rédigé le torchon d'invitation pour le 3 Mai?
     Erreurs de frappes, caractères majuscules sans raison...
@@ -19,10 +21,13 @@ La Mairie de la ville modèle a envoyé un magnifique `carton d'invitation`_ pou
     (serais je en train de devenir un vieux con?)
 
 Zut alors, Monsieur grognon mélange les torchons et les cartons d'invitations :-(
-Quoi qu'il en soit, la question est posée :
-**mais qui-donc a bien pu faire ce carton/torchon et qu'avait il dans la tête à ce moment là** ?
+Quoi qu'il en soit, les questions sont posées :
 
-Aide la rédaction du jeudupromoteur a résoudre cette énigme douteuse.
+(1) **mais qui-donc a bien pu faire ce carton/torchon ?**
+(2) **qu'avait il dans la tête à ce moment là** ?
+(3) **c'est ki ki la fait**?
+
+Aide la rédaction du jeu du promoteur a résoudre cette énigme douteuse.
 
 Q1. Erreur de frappe
 ''''''''''''''''''''
@@ -35,8 +40,8 @@ Tout d'abord cherche les ``erreurs de frappe`` dans le carton.
 ..  admonition:: Réponse
     :class: toggle
 
-    Visiblement l'auteur avait la ré**FEL**xion mal placée. Il devait
-    penser à autre chose quand il a écrit tout cela.
+    Visiblement l'auteur avait la ré**FEL**xion mal placée.
+    Il devait penser à autre chose quand il a écrit tout cela.
 
 Q2. Caractères majusCULes
 '''''''''''''''''''''''''
@@ -52,30 +57,23 @@ Devine à quoi pensait l'auteur du carton pour faire ces
 ..  admonition:: Réponse
     :class: toggle
 
-    A quoi pensait-il ? Difficle à dire. On voit bien un joli Q, comme un O mais
-    avec une petite queue. Mais alors à quoi correspond cette joile paire de E
-    (regarde bien, il y a deux E, les deux avec un galbe superbe) ? Et à quoi correspond
-    ce bel accent montant ? Difficile à dire ! Demandes à tes parents. Envoie nous
-    tes dessins, on les publira (dans un magazine spécialisé).
+    A quoi pensait-il ? Difficle à dire. On voit bien un joli et gros Q,
+    comme un O mais avec une petite queue. Mais alors à quoi correspond cette
+    jolie paire de E (regarde bien, il y a deux E, les deux avec un galbe superbe) ?
+    Et à quoi correspond ce bel accent montant ? Difficile à dire !
 
-Q3. Qui l'a fait
-''''''''''''''''
+    Demande à tes parents. Envoie nous tes dessins, on les publira dans un magazine spécialisé.
 
-Devine qui a fait un tel carton.
+
+Q3. Ki ki la fait ?
+'''''''''''''''''''
+
+D'après toi, c'est ki ki la fait ce carton rigolo ?
 
 ..  admonition:: Réponse
     :class: toggle
 
-    Un habitant zinzin de sessins, nous indique que l'artiste est peut être
-    l'auteur du `célébre logo du CNRS`_. Il ne s'agit que de rumeur mais c'est bien
-    possible. L'artiste avait déjà un problème de **réfelaxion**. Il suffit
-    de **regarder ce logo dans un miroir**, et tu veras qu'il pensait déjà
-    à la même chose. Son signe, le petit truc en plus qui rentre dedans.
-
-    ..  figure:: images/logo-cnrs.jpg
-        :align: center
-
-        Logo du CNRS. Un exemple de réfelaxion très poussé.
+    L'enquête continue. On a des pistes du coté de Seyssins. Bientôt la réponse.
 
 
 
@@ -88,6 +86,4 @@ Devine qui a fait un tel carton.
 
 ..  |verso| image:: images/meylan-carton-invitation-2.jpg
 
-..  _`célébre logo du CNRS`:
-    http://www.cnrs.fr/compratique/savoir/logos.htm
 
