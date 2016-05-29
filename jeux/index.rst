@@ -11,11 +11,11 @@ Tout les mercredis tu auras de nouveaux jeux, alors :ref:`abonne-toi <abonne-toi
 
 .. toctree::
 
+    meylan-promoglouton/index
     meylan-chasse-les-intrus
     meylan-un-plan-d-actions-en-beton
     meylan-coupe-toujours
     meylan-de-confidentiel-a-consternation
-    meylan-promoglouton/index
     meylan-keskizondi-et-kiladi
     meylan-operation-purement-financiere
     meylan-ville-modele
