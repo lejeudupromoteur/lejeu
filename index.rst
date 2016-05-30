@@ -21,13 +21,16 @@ de Melahan: si tu détruis ton ancienne crèche, promoglouton donnera 1.8M € �
     * discute avec tes parents, grand-parents, ou avec tes enfants,
     * lis le `blog de la crèche`_,
     * va discuter avec les `vieux loups`_ du quartier,
-    * tu peux aussi aller dans la section :ref:`Têtes d'ampoules`.
 
-    ============================== ===================================
-          `blog de la crèche`_          `vieux loups`_ du quartier
-    ============================== ===================================
-         |LogoCollectif|                       |LogoUQBG|
-    ============================== ===================================
+    ..  ..
+        * tu peux aussi aller dans la section :ref:`Têtes d'ampoules`.
+
+
+        ============================== ===================================
+              `blog de la crèche`_          `vieux loups`_ du quartier
+        ============================== ===================================
+             |LogoCollectif|                       |LogoUQBG|
+        ============================== ===================================
 
 
 Principe du jeu
@@ -54,10 +57,13 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     regles/index
     jeux/index
     humour/index
-    tetes-ampoules/index
-    contribue/index
     abonne-toi/index
+    contribue/index
     petitionne/index
+
+..  tetes-ampoules/index
+
+..  contribue/index
 
 ..  desinformations/index
 
