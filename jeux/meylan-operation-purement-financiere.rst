@@ -3,69 +3,65 @@ Opération purement financière !
 
 MATHS
 
-La vente du terrain zinzin est une opération purement financière. Tu devras réaliser un peu de calcul mental pour
+La vente du terrain zinzin est une opération purement financière.
+Tu devras réaliser un peu de calcul mental pour
 t’entraîner avec lulu le trésorier...
 
-.. note::
+Un peu de calcul mental pour t’entrainer...
 
-        **Ce jeu sera disponible mercredi prochain.** :ref:`Abonne-toi <abonne-toi>` pour être prévenu !
+Q1. Profusion
+'''''''''''''
 
-.. ..........................................................................................................;
+Sachant que sur la boite de 210 fraises Tagada coute 8,35€,
+combien fraises pourrait tu avoir avec 1.8M € ?
 
-    Un peu de calcul mental pour t’entrainer...
+..  image:: meylan/meylan-operation-purement-financiere.png
+    :align: center
 
-    Q1. Profusion
-    '''''''''''''
+..  admonition:: Réponse
+    :class: toggle
 
-    Sachant que sur la boite de 210 fraises Tagada coute 8,35€, combien fraises pourrait tu avoir avec 1.8M € ?
+    1.8M € * 210V = beaucoup de fraises tagada.
+    Pour commander, prend la carte de crédit de tes parents.
 
-    ..  image:: meylan/meylan-operation-purement-financiere.png
-        :align: center
+Q2. Circulation
+'''''''''''''''
 
-    ..  admonition:: Réponse
-        :class: toggle
+Combien faudra t-il de passages de camions pour les livrer jusqu'à
+ta cage d'escalier ?
 
+..  admonition:: Réponse
+    :class: toggle
 
-        1.8M € * 210V = beaucoup de fraises tagada.
-        Pour commander, prend la carte de crédit de tes parents.
+    1 800 000 / 10 * 1.5 / 3.14 * 1789 + 1515 = beaucoup de circulation, de bruit et de pollution !
+    Achête toi un masque à gaz.
 
-    Q2. Circulation
-    '''''''''''''''
+Q3. Polution
+''''''''''''
 
-    Combien faudra t-il de passages de camions pour les livrer jusqu'à ta cage d'escalier ?
+Combien d'arbres faudra t'il pour absorber la quantité de C02 rejetée par
+les camions sur le parking ?
 
-    ..  admonition:: Réponse
-        :class: toggle
+..  admonition:: Réponse
+    :class: toggle
 
-        1 800 000 / 10 * 1.5 / 3.14 * 1789 + 1515 = beaucoup de circulation, de bruit et de pollution !
-        Achête toi un masque à gaz.
+    La question ne se pose pas car tu as déjà vendu le terrain gros ballot! Il n'y a plus d'arbres.
+    Plus de fraicheur en été. Plus d'ombre à midi. Plus d'endroit où jouer. Ramène ta fraise et retourne
+    "méditer" avec tes copains dans la cage d'escalier.
 
-    Q3. Polution
-    ''''''''''''
+Q4. Consomation
+'''''''''''''''
 
-    Combien d'arbres faudra t'il pour absorber la quantité de C02 rejetée par les camions sur le parking ?
-
-    ..  admonition:: Réponse
-        :class: toggle
-
-        La question ne se pose pas car tu as déjà vendu le terrain gros ballot! Il n'y a plus d'arbres.
-        Plus de fraicheur en été. Plus d'ombre à midi. Plus d'endroit où jouer. Ramène ta fraise et retourne
-        "méditer" avec tes copains dans la cage d'escalier.
-
-    Q4. Consomation
-    '''''''''''''''
-
-    Est-ce une bonne idée de manger tant de fraises tagada ?
+Est-ce une bonne idée de manger tant de fraises tagada ?
 
 
+..  admonition:: Réponse
+    :class: toggle
 
-    ..  admonition:: Réponse
-        :class: toggle
+    Oui.
 
-        Oui.
+    #.  Pas d'espaces verts = pas de fraises-tout-court. Tu vas quand même pas manger des légumes ?
+    #.  Plus d'endroit ou jouer = faut passer le temps dans la cage d'escalier, Mange tes fraises,
+        ne brule pas les poubelles.
 
-        #.  Pas d'espaces verts = pas de fraises-tout-court. Tu vas quand même pas manger des légumes ?
-        #.  Plus d'endroit ou jouer = faut passer le temps dans la cage d'escalier, Mange tes fraises,
-            ne brule pas les poubelles.
-
-        Commande tes fraises tagada dès maintenant sur Haribo.com !
+    Commande tes fraises tagada dès maintenant sur Haribo.com !
