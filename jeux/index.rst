@@ -11,6 +11,7 @@ Tout les mercredis tu auras de nouveaux jeux, alors :ref:`abonne-toi <abonne-toi
 
 .. toctree::
 
+    meylan-cartes-sur-table
     meylan-promoglouton/index
     meylan-chasse-les-intrus
     meylan-un-plan-d-actions-en-beton
