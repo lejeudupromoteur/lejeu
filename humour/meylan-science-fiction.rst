@@ -9,6 +9,6 @@ Science fiction
 
 **Sous-sol**
 
-..  image:: images/meylan-charte-concertation.jpg
+..  image:: images/meylan-science-fiction-etagere.jpg
     :align: center
     :target: http://www.meylan.fr/index.php?idtf=1670#par10873
