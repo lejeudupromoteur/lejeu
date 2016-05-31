@@ -15,7 +15,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
 
     meylan-science-fiction
     meylan-theoremes-biscotte-2
-    meylan-quelles-ambitions
+    meylan-quelle-ambition-n1
     meylan-inovalue
     meylan-complexe
     meylan-cahutes
@@ -25,6 +25,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-face-a-face
     meylan-figurines
     meylan-dense
+    meylan-quelle-ambition-n2
     meylan-fil-d-attente
     meylan-face-cachee
     meylan-ma-ville
