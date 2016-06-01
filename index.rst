@@ -56,8 +56,9 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     actualites/index
     jeux/index
     humour/index
-    abonne-toi/index
     contribue/index
+
+..  abonne-toi/index
 
 ..  petitionne/index
 

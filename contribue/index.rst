@@ -10,14 +10,19 @@ Le site lejeudupromoteur.org est un projet "`open source`_" c'est à dire **ouve
 Sans contributions, pas de site, pas de rigolade avec les copains, juste toi et un
 désert de béton autour. C'est ça que tu veux ? **Alors contribue à ta manière !**
 
+**Tu veux juste regarder** : pas de soucis. Abonne-toi.
 
-**Le plus simple** : met ta graine dans la boîte à idées !
+.. toctree::
+    :maxdepth: 2
+
+    abonne-toi
+
+**Tu as une idée ? Le plus simple** : met ta graine dans la boîte à idées !
 
 .. toctree::
     :maxdepth: 2
 
     boite
-
 
 **Tu te poses encore des questions ?**
 
