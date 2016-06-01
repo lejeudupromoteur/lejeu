@@ -1,9 +1,10 @@
-Règles du jeu
+RÈGLES DU JEU
 =============
 
 Pour faire le jeu du promoteur et des élus le mieux c'est de faire tout ce qu'ils veulent,
-Ils le font déjà, mais le but du jeu c'est de le faire avec eux. Et dans ce jeu tu peux aussi faire ce que
-tu veux, L'essentiel c'est de s'amuser !
+Ils le font déjà, mais le but du jeu c'est de le faire avec eux.
+Et dans ce jeu tu peux aussi faire ce que tu veux,
+L'essentiel c'est de s'amuser !
 
 
 .. toctree::
