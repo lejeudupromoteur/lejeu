@@ -18,6 +18,7 @@ jeux interactifs
 ..  toctree::
 
     h5p/index
+    quizscript/index
     sauvekiki/index
     roule-bouboulle/index
     zone-combats/index
