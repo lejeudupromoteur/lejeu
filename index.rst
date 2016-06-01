@@ -59,7 +59,8 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     jeux/index
     abonne-toi/index
     contribue/index
-    petitionne/index
+
+..  petitionne/index
 
 ..  tetes-ampoules/index
 
