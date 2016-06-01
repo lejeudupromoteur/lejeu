@@ -116,7 +116,8 @@ exclude_patterns = [
     '**/.build/*.generated.rst',
     # '_/index.rst',
     # 'contribue',
-    'tetes-ampoules']
+    'tetes-ampoules',
+    'petitionne']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -220,6 +221,7 @@ html_static_path = [
     os.path.join(PROJECT_DIR, '_', 'zone-combats','static'),
     os.path.join(PROJECT_DIR, 'jeux', 'meylan-promoglouton','static'),
     os.path.join(PROJECT_DIR, '_', 'sauvekiki','static'),
+    os.path.join(PROJECT_DIR, '_', 'quizscript','static'),
     ]
 
 # Add any extra paths that contain custom files (such as robots.txt or
