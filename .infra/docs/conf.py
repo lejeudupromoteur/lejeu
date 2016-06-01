@@ -117,7 +117,8 @@ exclude_patterns = [
     # '_/index.rst',
     # 'contribue',
     'tetes-ampoules',
-    'petitionne']
+    'petitionne',
+    '_/attic/abonne-toi']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
