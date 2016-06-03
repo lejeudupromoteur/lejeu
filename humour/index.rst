@@ -23,15 +23,20 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-couleur
     meylan-diplome-concertation
     meylan-face-a-face
-    meylan-figurines
-    meylan-dense
     meylan-quelle-ambition-n2
     meylan-fil-d-attente
     meylan-face-cachee
-    meylan-ma-ville
     meylan-double-jeu-a-la-mairie
-    meylan-tetines-dans-la-prairie
     meylan-vue-plongeante-sur-seyssins
     meylan-adeptes-de-ma-dalton
     fete-des-betises
 
+..  ..          meylan-tetines-dans-la-prairie
+
+..  ..      meylan-dense
+
+..  ..          meylan-figurines
+
+..  ..          meylan-ma-ville
+
+..  ..

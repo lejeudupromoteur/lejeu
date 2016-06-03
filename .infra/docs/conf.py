@@ -118,6 +118,20 @@ exclude_patterns = [
     # 'contribue',
     'tetes-ampoules',
     'petitionne',
+
+    'jeux/meylan-a-quoi-ca-rime.rst',
+    'jeux/meylan-de-confidentiel-a-consternation.rst',
+    'jeux/meylan-ville-modele.rst',
+    'jeux/meylan-ma-langue-au-cheval.rst',
+    'jeux/meylan-l-etroit-non-sens.rst',
+    'jeux/meylan-dalton-city.rst',
+    'jeux/meylan-la-claque-democratique.rst',
+
+    'humour/meylan-figurines.rst',
+    'humour/meylan-ma-ville.rst',
+    'humour/meylan-tetines-dans-la-prairie.rst',
+    'humour/meylan-dense.rst',
+
     '_/attic/abonne-toi']
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all

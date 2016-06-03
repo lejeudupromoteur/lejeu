@@ -19,24 +19,25 @@ Tout les mercredis tu auras de nouveaux jeux, alors :ref:`abonne-toi <abonne-toi
     meylan-chasse-l-intru
     meylan-un-plan-d-actions-en-beton
     meylan-coupe-toujours
-    meylan-de-confidentiel-a-consternation
     meylan-keskizondi-et-kiladi
     meylan-operation-purement-financiere
-    meylan-ville-modele
-    meylan-ma-langue-au-cheval
-    meylan-a-quoi-ca-rime
-    meylan-l-etroit-non-sens
-    meylan-dalton-city
-    meylan-la-claque-democratique
     meylan-epikoi
 
 
+..  ..          meylan-a-quoi-ca-rime
+
+..  ..          meylan-de-confidentiel-a-consternation
+
+..  ..          meylan-ville-modele
+
+..  ..          meylan-ma-langue-au-cheval
+
+..  ..          meylan-l-etroit-non-sens
 
 
+..  ..          meylan-dalton-city
 
-
-
-
+..  ..          meylan-la-claque-democratique
 
 
 
