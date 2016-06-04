@@ -20,13 +20,14 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-complexe
     meylan-cahutes
     meylan-carton
+    meylan-double-jeu-a-la-mairie
     meylan-couleur
     meylan-diplome-concertation
     meylan-face-a-face
     meylan-quelle-ambition-n2
     meylan-fil-d-attente
     meylan-face-cachee
-    meylan-double-jeu-a-la-mairie
+    meylan-hlm-plm
     meylan-vue-plongeante-sur-seyssins
     meylan-adeptes-de-ma-dalton
     fete-des-betises
