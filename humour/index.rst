@@ -18,6 +18,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-quelle-ambition-n1
     meylan-inovalue
     meylan-complexe
+    meylan-qui-l-eut-crue
     meylan-cahutes
     meylan-carton
     meylan-double-jeu-a-la-mairie
