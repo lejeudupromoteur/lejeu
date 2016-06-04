@@ -27,6 +27,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-face-a-face
     meylan-quelle-ambition-n2
     meylan-fil-d-attente
+    meylan-tetines-dans-la-prairie
     meylan-face-cachee
     meylan-hlm-plm
     meylan-vue-plongeante-sur-seyssins

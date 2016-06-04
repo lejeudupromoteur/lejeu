@@ -129,7 +129,6 @@ exclude_patterns = [
 
     'humour/meylan-figurines.rst',
     'humour/meylan-ma-ville.rst',
-    'humour/meylan-tetines-dans-la-prairie.rst',
     'humour/meylan-dense.rst',
 
     '_/attic/abonne-toi']
