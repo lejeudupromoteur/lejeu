@@ -12,25 +12,27 @@ de Melahan: si tu détruis ton ancienne crèche, promoglouton donnera 1.8M € �
                     :target: `vieux loups`_
 
 
-..  attention::
+..  .....
+
+    ..  attention::
 
 
-    **Ce jeu est réservé aux plus de 3 mois**.  Si cela fait moins de trois mois que tu habites la ville de Melahan, tu
-    ne pourras peut être pas tout comprendre. Dans ce cas :
+        **Ce jeu est réservé aux plus de 3 mois**.  Si cela fait moins de trois mois que tu habites la ville de Melahan, tu
+        ne pourras peut être pas tout comprendre. Dans ce cas :
 
-    * discute avec tes parents, grand-parents, ou avec tes enfants,
-    * lis le `blog de la crèche`_,
-    * va discuter avec les `vieux loups`_ du quartier,
+        * discute avec tes parents, grand-parents, ou avec tes enfants,
+        * lis le `blog de la crèche`_,
+        * va discuter avec les `vieux loups`_ du quartier,
 
-    ..  ..
-        * tu peux aussi aller dans la section :ref:`Têtes d'ampoules`.
+        ..  ..
+            * tu peux aussi aller dans la section :ref:`Têtes d'ampoules`.
 
 
-        ============================== ===================================
-              `blog de la crèche`_          `vieux loups`_ du quartier
-        ============================== ===================================
-             |LogoCollectif|                       |LogoUQBG|
-        ============================== ===================================
+            ============================== ===================================
+                  `blog de la crèche`_          `vieux loups`_ du quartier
+            ============================== ===================================
+                 |LogoCollectif|                       |LogoUQBG|
+            ============================== ===================================
 
 
 Principe du jeu
