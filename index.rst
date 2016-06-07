@@ -38,19 +38,16 @@ de Melahan: si tu détruis ton ancienne crèche, promoglouton donnera 1.8M € �
 Principe du jeu
 ---------------
 Le principe du jeu du promoteur est simple: trouver la solution la plus simple possible (pour les élus lulus)
-tout en faisant plaisir au promoteur tuteur. Tu n'as même pas besoin de trouver la meilleure solution !
+tout en faisant plaisir au pro-pro-moteur. Tu n'as même pas besoin de trouver la meilleure solution !
 
-Toute les semaines tu trouveras de nouveaux défis. Abonne toi pour être prévenu !
+Toutes les semaines tu trouveras de nouveaux défis. Abonne toi pour être prévenu !
 
 Plan du site
 ------------
 
 Commence à lire les règles du jeux et comprendre qui sont les personnages, où sont les embûches,
-les pièges, etc. Ensuite tu peux essayer de relancer de nombreux défis. Si tu es un garçon ou une
-fille à lunettes, tu pourras aussi te rendre dans le coin pour les têtes d'ampoules et tu trouveras 
-plein de choses sérieuses mais rigolotes. 
-Finalement, tu peux proposer ton jeu, proposer des dessins, des informations ou simplement donner ton avis.
-Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
+les pièges, etc. Ensuite tu peux essayer de relever de nombreux défis. Finalement, tu peux proposer
+ton jeu, proposer des dessins, des informations ou simplement donner ton avis dans le boîte à idée.
 
 ..  toctree::
     :maxdepth: 2
@@ -60,17 +57,19 @@ Le jeu sur le jeu c'est le méta-jeu ! Trop drôle.
     humour/index
     contribue/index
 
-..  abonne-toi/index
+..  ..
 
-..  petitionne/index
+    ..  abonne-toi/index
 
-..  tetes-ampoules/index
+    ..  petitionne/index
 
-..  contribue/index
+    ..  tetes-ampoules/index
 
-..  desinformations/index
+    ..  contribue/index
 
-.. _`blog de la crèche` : http://crechemeylan.unblog.fr/
+    ..  desinformations/index
 
-.. _`vieux loups` : http://uqbgp.fr
+    .. _`blog de la crèche` : http://crechemeylan.unblog.fr/
+
+    .. _`vieux loups` : http://uqbgp.fr
 
