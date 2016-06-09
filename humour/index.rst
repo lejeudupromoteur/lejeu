@@ -15,6 +15,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
 
     meylan-science-fiction
     meylan-theoremes-biscotte-2
+    meylan-le-conpromis-des-ayguinards
     meylan-quelle-ambition-n1
     meylan-inovalue
     meylan-complexe
