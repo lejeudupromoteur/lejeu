@@ -21,6 +21,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-qui-l-eut-crue
     meylan-cahutes
     meylan-carton
+    meylan-bebe-nageur
     meylan-double-jeu-a-la-mairie
     meylan-couleur
     meylan-diplome-concertation
