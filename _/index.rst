@@ -35,6 +35,10 @@ jeux interactifs
 test
 ''''
 
+
+.. raw:: html
+    :file: embeds/cartodb.html
+
 .. thumbnail:: zone-combats/static/zone-combats/images/arenas/0/arena.png
     :group: g1
     :width: 100px
