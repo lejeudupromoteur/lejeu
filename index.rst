@@ -1,8 +1,9 @@
 Joue le jeu du promoteur
 ========================
 
-**Avec les élus lulus, joue le jeu du promoteur. Participe à la vente à la coupe et à la sauvette
-de Melahan: si tu détruis ton ancienne crèche, promoglouton donnera 1.8M € à la mairie de Melahan.**
+**Avec les élus lulus, joue le jeu du pro-promoteur. Participe à la vente à la coupe et à la sauvette
+de Melahan. Il y a des pro-promotions. Par exemple si tu détruis ton ancienne crèche avant 2017, promoglouton
+donnera 1.8M € à la mairie-rie de Melahan et tu gagneras 90 logements. Chouette non ? Alors profite de cette offre**
 
 ..  .....
 
@@ -42,14 +43,16 @@ Principe du jeu
 Le principe du jeu du promoteur est simple: trouver la solution la plus simple possible (pour les élus lulus)
 tout en faisant plaisir au pro-pro-moteur. Tu n'as même pas besoin de trouver la meilleure solution !
 
-Toutes les semaines tu trouveras de nouveaux défis. Abonne toi pour être prévenu !
+Toutes les semaines tu trouveras de nouveaux défis. Abonne toi pour être prévenu ! Si tu en as marre de jouer
+tu trouveras aussi une section "Humour douteux" pour douter un peu et rigoler. C'est trop rigolo !
 
 Plan du site
 ------------
 
 Commence à lire les règles du jeux et comprendre qui sont les personnages, où sont les embûches,
-les pièges, etc. Ensuite tu peux essayer de relever de nombreux défis. Finalement, tu peux proposer
-ton jeu, proposer des dessins, des informations ou simplement donner ton avis dans le boîte à idée.
+les pièges, etc. Ensuite tu peux essayer de relever de nombreux défis. Tu peux aussi rigoler dans
+la section Humour douteux. Finalement, tu peux proposer ton jeu, proposer des dessins, des informations
+ou simplement donner ton avis dans le boîte à idée.
 
 ..  toctree::
     :maxdepth: 2
