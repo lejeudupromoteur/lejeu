@@ -120,6 +120,7 @@ exclude_patterns = [
     'petitionne',
 
     'actualites/actualites-agenda.rst',
+
     'jeux/meylan-a-quoi-ca-rime.rst',
     'jeux/meylan-de-confidentiel-a-consternation.rst',
     'jeux/meylan-ville-modele.rst',
