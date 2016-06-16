@@ -134,6 +134,7 @@ exclude_patterns = [
     'humour/meylan-dense.rst',
 
     '_/attic/abonne-toi']
+
 # %JFE+]
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
