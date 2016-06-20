@@ -2,8 +2,22 @@ Joue le jeu du promoteur
 ========================
 
 **Avec les élus lulus, joue le jeu du pro-promoteur. Participe à la vente à la coupe et à la sauvette
-de Melahan. Il y a des pro-promotions. Par exemple si tu détruis ton ancienne crèche avant 2017, promoglouton
-donnera 1.8M € à la mairie-rie de Melahan et tu gagneras 90 logements. Chouette non ? Alors profite de cette offre**
+de Melahan.***
+
+Il y a des pro-promotions :
+
+*   par exemple si tu détruis ton ancienne crèche avant 2017, promoglouton donnera 1.8M € à la mairie-rie
+    de Melahan et tu gagneras 90 logements. Chouette non ? Alors profite de cette offre exceptional.
+
+*   rase la piscine des ayguinards, ca sert à rien, les nains iront se baigner leur baignoire ;
+    laisse les habitants planter sur le terrain des cornichons et des
+    oignons, ca leur fera plaisir ; et une fois la pro-promotion finie, tu pourras construire de beaux
+    et hauts immeubles, et enfin avooir du liquide.
+
+*   dis a tout le monde qu'il y a plein d'écoles à Meylan, même où il n'y en a pas. C'est de la publicité
+    mensongère, mais à Meylan, le pro-promoteur est roi, et tout est permis (de constuire)
+
+Alors profite bien de ces promotions, et fait le jeu du pro-proomoteur.
 
 ..  .....
 
@@ -52,7 +66,10 @@ Plan du site
 Commence à lire les règles du jeux et comprendre qui sont les personnages, où sont les embûches,
 les pièges, etc. Ensuite tu peux essayer de relever de nombreux défis. Tu peux aussi rigoler dans
 la section Humour douteux. Finalement, tu peux proposer ton jeu, proposer des dessins, des informations
-ou simplement donner ton avis dans le boîte à idée.
+ou simplement donner ton avis dans le boîte à idée. Donnes ton nom ou tes initiales si tu veux être célèbre.
+Sinon, on s'en fou. C'est pas grave.
+
+Oublie pas, c'est juste pour de rire :-)
 
 ..  toctree::
     :maxdepth: 2
