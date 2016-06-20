@@ -2,7 +2,7 @@ Comme des sardines
 ==================
 
 Après un réunion de concertation Mr grospif est allé à la mairie se
-procurer les plans de la mairie de Melahan pour la parcelle 161 de la crèche.
+procurer les plans de la parcelle 161 de la crèche.
 On lui a donné ca.
 
 ..  figure:: images/meylan-comme-des-sardines.png
