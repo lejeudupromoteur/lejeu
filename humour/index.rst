@@ -31,6 +31,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-face-a-face
     meylan-quelle-ambition-n2
     meylan-fil-d-attente
+    meylan-le-scotch-a-0.7
     meylan-tetines-dans-la-prairie
     meylan-face-cachee
     meylan-hlm-plm
