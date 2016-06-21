@@ -3,8 +3,8 @@
 Contribue !
 ===========
 
-..  figure:: images/puzzle.jpg
-    :align: center
+.. ..  figure:: images/puzzle.jpg
+        :align: center
 
 Le site lejeudupromoteur.org est un projet "`open source`_" c'est à dire **ouvert**.
 Sans contributions, pas de site, pas de rigolade avec les copains, juste toi et un
