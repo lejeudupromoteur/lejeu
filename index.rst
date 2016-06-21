@@ -78,6 +78,7 @@ Oublie pas, c'est juste pour de rire :-)
     jeux/index
     humour/index
     contribue/index
+    quiquonest/index
 
 ..  ..
 
