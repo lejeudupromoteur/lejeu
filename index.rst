@@ -7,7 +7,7 @@ de Melahan.***
 Il y a des pro-promotions :
 
 *   par exemple si tu détruis ton ancienne crèche avant 2017, promoglouton donnera 1.8M € à la mairie-rie
-    de Melahan et tu gagneras 90 logements. Chouette non ? Alors profite de cette offre exceptional.
+    de Melahan et tu gagneras 90 logements. Chouette non ? Alors profite de cette offre exceptionelle.
 
 *   rase la piscine des ayguinards, ca sert à rien, les nains iront se baigner leur baignoire ;
     laisse les habitants planter sur le terrain des cornichons et des
