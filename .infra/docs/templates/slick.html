@@ -2,20 +2,19 @@
 
 <link rel="stylesheet" href="{{ pathto('_static/slick/slick-theme.css', 1) }}" type="text/css" />
 
-<script src="{{ pathto('_static/jquery-migrate-1.4.0.min.js', 1) }}"></script>
+<script src="{{ pathto('_static/jquery-migrate-1.4.1.min.js', 1) }}"></script>
 
 <script src="{{ pathto('_static/slick/slick.min.js', 1) }}"></script>
 
 
 <script type="text/javascript">
     $(document).ready(function(){
-      $('.sliding').slick({
-          slidesToShow: 2,
-          slidesToScroll: 1,
-          autoplay: true,
-          autoplaySpeed: 2000
-      }) ;
-//        "setting-name": "setting-value"
-//      });
+        if (SLIDING_CONFIGS) {
+            for (var config_name in SLIDING_CONFIGS) {
+                if (SLIDING_CONFIGS.hasOwnProperty(config_name)) {
+                    $(config_name).slick(SLIDING_CONFIGS[config_name])
+                }
+            }
+        }
     });
 </script>
