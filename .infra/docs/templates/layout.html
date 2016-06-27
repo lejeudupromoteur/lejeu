@@ -1,7 +1,9 @@
 {# TEMPLATE VAR SETTINGS #}
-{# Exampe of css_files and script_files  #}
-{#% set css_files = css_files + ["_static/slick/slick.css","_static/slick/slick-theme.css"] %#}
-{#% set script_files = script_files + ["_static/slick/slick.min.js"] %#}
+{# -- for slick --  #}
+{% set css_files = css_files + ["_static/slick/slick.css","_static/slick/slick-theme.css"] %}
+{# slick scripts must be at end of page to work. Moved to slick.html    % set script_files = script_files +
+["_static/slick/slick.min.js"]
+%#}
 {# -- end slick -- #}
 
 {%- set url_root = pathto('', 1) %}
