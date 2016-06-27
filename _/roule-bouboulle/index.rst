@@ -1,9 +1,9 @@
 Roule Bouboulle
 ---------------
 
-Bouboulle, le petit neveu du promoteur, n'a pas la même chance que son tonton.
+Bouboulle, le petit neveu du pro-promoteur, n'a pas la même chance que son tonton.
 Il n'habite pas à la campagne, lui. Lui, il habite à Melahan dans un des
-immeubles du promoteur.
+immeubles construits par le pro-promoteur.
 
 Du coup bouboule passe son temps a s'ennuyer dans les cages d'escaliers.
 Du coup bouloulle ne fait jamais de sport.
