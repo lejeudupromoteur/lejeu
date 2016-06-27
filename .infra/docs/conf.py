@@ -240,6 +240,7 @@ html_static_path = [
     os.path.join(PROJECT_DIR, 'jeux', 'meylan-promoglouton','static'),
     os.path.join(PROJECT_DIR, '_', 'sauvekiki','static'),
     os.path.join(PROJECT_DIR, '_', 'quizscript','static'),
+   # os.path.join(PROJECT_DIR, '_', 'slick', 'static')
     ]
 
 # Add any extra paths that contain custom files (such as robots.txt or

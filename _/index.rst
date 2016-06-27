@@ -21,18 +21,22 @@ pages en construction
     /desinformations/index
     /desinformations/que-des-mechants
 
-jeux interactifs
-''''''''''''''''
+framework
+'''''''''
 
 ..  toctree::
 
     h5p/index
     quizscript/index
-    sauvekiki/index
-    roule-bouboulle/index
-    zone-combats/index
+    slick/index
 
 
+CartoDB
+'''''''
+
+
+.. raw:: html
+    :file: embeds/cartodb.html
 
 ..  ..
 
@@ -41,12 +45,21 @@ jeux interactifs
         <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/142265735@N05/albums/72157667537848335" title="Jeux"><img src="https://farm2.staticflickr.com/1566/26621512125_c22d679eb2_z.jpg" width="640" height="166" alt="Jeux"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-test
-''''
+jeux en construction
+''''''''''''''''''''
+
+..  toctree::
+
+    sauvekiki/index
+    roule-bouboulle/index
+    zone-combats/index
 
 
-.. raw:: html
-    :file: embeds/cartodb.html
+
+
+
+thumnails
+'''''''''
 
 .. thumbnail:: zone-combats/static/zone-combats/images/arenas/0/arena.png
     :group: g1
