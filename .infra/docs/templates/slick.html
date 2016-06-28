@@ -4,6 +4,49 @@ moved to layout.html so that one can overide the css
 <link rel="stylesheet" href="{{ pathto('_static/slick/slick-theme.css', 1) }}" type="text/css" />
 -->
 
+<style type="text/css">
+    .slick-prev::before, .slick-next::before {
+        color: #7a7c87 ;
+    }
+    .slick-dots {
+        bottom: -50px ;
+    }
+    .slick-dots li {
+        margin-left: 0 !important ;
+    }
+
+    /*.bslide {*/
+        /*object-fit: none; !* Do not scale the image *!*/
+        /*object-position: center; !* Center the image within the element *!*/
+        /*height: 100px;*/
+        /*width: 100px;*/
+        /*border: solid;*/
+        /*border-width: 5px;*/
+        /*border-color: red;*/
+    /*}*/
+
+
+    div.center-cropped {
+        width: 120px;
+        height: 120px;
+        margin: 10px;
+        background: black;
+        border: solid;
+        border-width: 5px;
+        overflow:hidden;
+    }
+    div.center-cropped img {
+        height: 100%;
+        min-width: 100%;
+        left: 50%;
+        position: relative;
+        transform: translateX(-50%);
+    }
+
+</style>
+
+
+
 <script src="{{ pathto('_static/jquery-migrate-1.4.1.min.js', 1) }}"></script>
 
 <script src="{{ pathto('_static/slick/slick.min.js', 1) }}"></script>
