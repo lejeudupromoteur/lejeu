@@ -32,63 +32,109 @@ Slick
     </script>
 
 
+.. ..
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-biscotte-n2.jpg
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-bebe-nageur.jpg
+            :class: bslide
+
+Un paragraphe au début
+
 .. .. raw:: html
     :file: embeds/slick-embeds.html
 
 ..  container:: sliding
 
-    ..  image:: ../../humour/images/meylan-biscotte-n2.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-bebe-nageur.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-biscotte-n2.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-complexe.gif
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-autoroute.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-bebe-nageur.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-e-novalue.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-hlm-plm.jpg
-        :target: ../../humour/meylan-hlm-plm.html
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-complexe.gif
+                :class: bslide
 
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-ma-dalton.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-autoroute.jpg
+                :class: bslide
 
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-betonnage-partage.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-e-novalue.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-cahutes.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-dense.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-hlm-plm.jpg
+                :target: ../../humour/meylan-hlm-plm.html
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-les-cons-promis-des-ayguinards.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-le-scotch-a-0.7.png
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-ma-dalton.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-hlm-plm.jpg
-        :target: ../../humour/meylan-hlm-plm.html
-        :class: bslide
+    .. container:: center-cropped
 
+            ..  image:: ../../humour/images/meylan-betonnage-partage.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-ma-dalton.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-biscotte-n2.jpg
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-cahutes.jpg
+                :class: bslide
 
-    ..  image:: ../../humour/images/meylan-bebe-nageur.jpg
-        :class: bslide
+    .. container:: center-cropped
 
-    ..  image:: ../../humour/images/meylan-complexe.gif
-        :class: bslide
+            ..  image:: ../../humour/images/meylan-dense.jpg
+                :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-les-cons-promis-des-ayguinards.jpg
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-le-scotch-a-0.7.png
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-hlm-plm.jpg
+            :target: ../../humour/meylan-hlm-plm.html
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-ma-dalton.jpg
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-biscotte-n2.jpg
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-bebe-nageur.jpg
+            :class: bslide
+
+    .. container:: center-cropped
+
+        ..  image:: ../../humour/images/meylan-complexe.gif
+            :class: bslide
+
+Et voici la suite
