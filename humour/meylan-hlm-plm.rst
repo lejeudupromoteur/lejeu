@@ -1,5 +1,7 @@
+..  _`hlm_plm`:
+
 Des HLMs à PLM
-===============
+==============
 
 Mr Grospif et son dicton du jour.
 
