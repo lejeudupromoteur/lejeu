@@ -1,0 +1,83 @@
+{% set slide_images = [
+    "arena2.png",
+    "meylan-bebe-nageur.jpg",
+    "meylan-complexe.gif",
+    "meylan-autoroute.jpg",
+    "meylan-diplome-concertation.jpg",
+    "meylan-e-novalue.jpg",
+    "meylan-emporte-piece.jpg",
+    "meylan-ma-dalton.jpg",
+    "meylan-tetines-dans-la-prairie.jpg",
+    "oignons-et-cornichons.jpg",
+    "arena2.png",
+    "meylan-bebe-nageur.jpg",
+    "meylan-complexe.gif",
+    "meylan-autoroute.jpg",
+    "meylan-diplome-concertation.jpg",
+    "meylan-e-novalue.jpg",
+    "meylan-emporte-piece.jpg",
+    "meylan-ma-dalton.jpg",
+    "meylan-tetines-dans-la-prairie.jpg",
+    "oignons-et-cornichons.jpg",
+    "arena2.png",
+    "meylan-bebe-nageur.jpg",
+    "meylan-complexe.gif",
+    "meylan-autoroute.jpg",
+    "meylan-diplome-concertation.jpg",
+    "meylan-e-novalue.jpg",
+    "meylan-emporte-piece.jpg",
+    "meylan-ma-dalton.jpg",
+    "meylan-tetines-dans-la-prairie.jpg",
+    "oignons-et-cornichons.jpg"
+    ]
+%}
+<script type="text/javascript">
+    var SLIDING_CONFIGS = {
+            ".small-slider" : {
+                dots: true,
+                arrows: false,
+
+//                prevArrow: "",
+//                nextArrow: "",
+                adaptativeHeight: false,  // ??
+
+                // -- center mode ??
+                // centerMode: true,
+                // variableWidth: true,
+                // centerPadding: '180px',
+
+                // -- grid mode (bof)
+                // rows:2,
+                // slidesPerRow: 1,
+
+                // vertical : true,
+
+                slidesToShow: 4,
+                slidesToScroll: 1,
+
+                focusOnSelect: true,
+
+                // initialSlide:
+
+                autoplay: true,
+                autoplaySpeed: 2000,
+                infinite: true,
+
+                swipeToSlide: true,
+                waitForAnimate: false,
+
+
+                pauseOnDotsHover: true
+                }
+        };
+</script>
+
+<div style="width:316px; height:90px; margin-left: -30px;">
+    <div class="small-slider">
+    {% for images in slide_images %}
+        <div class="center-cropped">
+            <img class="bslide" src="{{ pathto('_images/'+images, 1) }}"/>
+        </div>
+    {% endfor %}
+    </div>
+</div>

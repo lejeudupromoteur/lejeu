@@ -8,12 +8,52 @@ moved to layout.html so that one can overide the css
     .slick-prev::before, .slick-next::before {
         color: #7a7c87 ;
     }
+
     .slick-dots {
         bottom: -50px ;
     }
+
+
+    .small-slider .slick-dots li {
+        width: 5px;
+        height: 5px;
+    }
+    .small-slider .slick-dots li button::before {
+        color: white;
+        font-size: 4px;
+        opacity: .30;
+    }
+
+    .small-slider .slick-dots li.slick-active button:before {
+        opacity: .90;
+    }
+    /* .small-slider .slick-prev, .small-slider .slick-next {
+        top: 114%;
+    }
+
+    .small-slider .slick-next {
+        right: -5px;
+    }
+    .small-slider .slick-prev {
+        left: -1px;
+    }
+
+    .small-slider .slick-prev::before, .small-slider .slick-next::before {
+        font-size: 15px;
+        opacity: .20;
+    }
+    */
+
+    .small-slider .slick-dots {
+        bottom: -22px ;
+    }
+
     .slick-dots li {
         margin-left: 0 !important ;
     }
+
+
+
 
     /*.bslide {*/
         /*object-fit: none; !* Do not scale the image *!*/
@@ -25,14 +65,42 @@ moved to layout.html so that one can overide the css
         /*border-color: red;*/
     /*}*/
 
+    .wy-side-nav-search .slick-prev::before, .wy-side-nav-search .slick-next::before {
+        color: white ;
+    }
+
+
+    .wy-side-nav-search .small-slider {
+        margin-left: 20px;
+    }
+
+    .wy-side-nav-search div.center-cropped {
+        width: 66px;
+        height: 66px;
+        margin: 2px;
+        background: black;
+    /* padding: 2px; */
+        border: solid;
+        border-width: 1px;
+        overflow:hidden;
+    }
+    .wy-side-nav-search div.center-cropped img {
+        height: 100%;
+        min-width: 100%;
+        left: 50%;
+        position: relative;
+        transform: translateX(-50%);
+        border-radius: 0%;
+        padding: 0px;
+    }
 
     div.center-cropped {
-        width: 120px;
-        height: 120px;
-        margin: 10px;
+        width: 100px;
+        height: 100px;
+        margin: 3px;
         background: black;
         border: solid;
-        border-width: 5px;
+        border-width: 2px;
         overflow:hidden;
     }
     div.center-cropped img {
