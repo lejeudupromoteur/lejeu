@@ -4,8 +4,9 @@ Slick
 
 
     <script type="text/javascript">
-        var SLIDING_CONFIGS = {
-                ".sliding" : {
+        // var SLIDING_CONFIGS = {
+        //        ".sliding" : {
+        SLIDING_CONFIGS['.sliding'] = {
                     dots: true,
 
                     adaptativeHeight: false,  // ??
@@ -27,7 +28,7 @@ Slick
                     autoplay: true,
                     autoplaySpeed: 2000,
                     infinite: true
-                    }
+        //            }
             };
     </script>
 
