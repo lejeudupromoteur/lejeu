@@ -25,6 +25,7 @@ Voici déjà des contributions de nos lecteurs. On attend :ref:`tes bétises<boi
     meylan-bebe-nageur
     meylan-emporte-piece
     meylan-double-jeu-a-la-mairie
+    meylan-densification-compressee
     meylan-couleur
     meylan-la-concertation-du-19-juin
     meylan-diplome-concertation
