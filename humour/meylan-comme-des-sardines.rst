@@ -12,7 +12,7 @@ On lui a donné ca :
 
 Bon, au service urbanisme on l'a encore mené en bateau et mis en boite.
 Pauvre monsieur Gros Pif. Coté liquide,
-:ref:`lui il préfère le scotch <scotch-a-07>` coté liquide. Les huiles de Melahan
+:ref:`lui il préfère le scotch <scotch-a-07>`. Les huiles de Melahan
 le savent et l'on roulé dans la farine. Elles auraient pu le griller,
 c'est bon, mais ca pue, les sardines grillèes. Ah ces grandes huiles...
 
