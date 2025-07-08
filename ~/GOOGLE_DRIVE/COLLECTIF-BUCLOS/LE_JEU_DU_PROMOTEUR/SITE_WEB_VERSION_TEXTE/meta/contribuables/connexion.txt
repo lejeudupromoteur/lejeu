@@ -1,0 +1,16 @@
+
+Connexion
+*********
+
+Note: **Cette étape ne doit être faite qu'une seule fois**. Tu peux
+  rester connecté(e) tout ta vie si tu veux ; il n'est pas nécessaire
+  de te deconnecter. Si tu demandes à ton navigateur de sauvegarder le
+  mot de passe, il le fera.
+
+Comment ca marche ?
+
+* tu vas te connecter dans une nouvelle fenêtre,
+
+* puis tu fermeras cette fenêtre pour revenir sur cette page.
+
+ et **débrouille toi pour revenir sur cette page** !

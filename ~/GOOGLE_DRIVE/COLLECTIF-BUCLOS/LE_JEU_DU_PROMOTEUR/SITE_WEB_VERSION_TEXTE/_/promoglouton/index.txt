@@ -1,0 +1,7 @@
+
+Promoglouton
+************
+
+Aide notre ami promoteur a manger tous les arbres. C'est un vrai
+glouton. Attention a ne pas te faire attraper pour les habitants
+zinzins qui surveille la quartier !

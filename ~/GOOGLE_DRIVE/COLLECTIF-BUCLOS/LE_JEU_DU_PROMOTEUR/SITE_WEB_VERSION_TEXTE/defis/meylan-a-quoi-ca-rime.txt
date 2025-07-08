@@ -1,0 +1,31 @@
+
+Melahan, à quoi ca rime ?
+*************************
+
+MUSIQUE
+
+Un chanteur tuteur compose une ode à la ville de Melahan. Il aime la
+phonétique car cela lui permet de faire des jeux de mots laids pour
+gens bêtes. Il avait noté en face de chaque refrain de quoi il voulait
+parler, mais son carnet s’est envolé et maintenant tout est mélangé !
+
+   (1) Melahan vente              (a) concertation              (X) Un élu lulu
+   (2) Melahan prison             (b) decision                  (Y) Un vigile lulu
+   (3) Melahan veilleuse          (c) jolie fille               (Z) Le fils du gendarme llulu
+   (4) Melahan entier             (d) parcelle                  (T) Une élue lulue
+   (5) Melahan grand              (e) crèche                    (U) Le promoteur tuteur
+   (6) Melahan colis                                            (V) Les voisins zinzins
+
+Aide notre chanteur à remettre les choses en ordre. Tu dois re-
+composer:
+
+* chaque refrain (première colonne) avec
+
+* qui l'a dit (troisième colonne)
+
+* a quoi le chanteur faisant référence (deuxième colonne).
+
+Si tu ne comprends pas demande à la mairie de Melahan et demande aux
+élus lulus si ils savent.
+
+Réponse: **Réponse mercredi prochain, enfin celui d'après.**
